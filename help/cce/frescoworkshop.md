@@ -1,6 +1,6 @@
 ---
-title: 在iPad（和iPhone）上的Fresco上尝试一下
-description: 在这个15分钟的实践研讨会中，利用Adobe Fresco探索数字绘图和绘图的全新世界
+title: 尝试在iPad(和iPhone)上Fresco您的手
+description: 在这个15分钟的实际操作研讨会中通过Adobe Fresco探索数字绘图和绘画的整个新世界
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# 在iPad（和iPhone）上的Fresco上尝试一下
+# 尝试在iPad(和iPhone)上Fresco您的手
 
-在这个15分钟的实践研讨会中，利用Adobe Fresco探索数字绘图和绘图的全新世界。 快速学习如何使用图层和剪贴蒙版，使绘画和纹理与基本形状保持一致。 请与设计人员/开发人员Chris Converse一起使用Fresco和Adobe Stock重新创建部分静止生活插图。
+在这个15分钟的实际操作研讨会中，使用Adobe Fresco探索数字绘图和绘画的全新世界。 快速了解如何使用图层和剪切蒙版将绘画和纹理与基础形状匹配。 跟着设计师/开发人员Chris Converse，使用Fresco和Adobe Stock重新创建静物插图的一部分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 

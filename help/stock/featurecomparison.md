@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock]创建产品功能比较图表
-description: 创建一个图形，比较产品定价计划，为潜在客户提供他们需要的信息概览
+title: 使用Adobe创建产品功能比较图 [!DNL Stock]
+description: 创建一个比较产品定价计划的图形，以便让潜在客户一目了然地了解所需的信息
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]创建产品功能比较图表
+# 使用Adobe创建产品功能比较图 [!DNL Stock]
 
-创建一个图形，比较产品定价计划，为潜在客户提供他们需要的信息概览。
+创建一个比较产品定价计划的图形，以便让潜在客户一目了然地了解所需的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

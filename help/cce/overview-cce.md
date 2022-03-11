@@ -1,24 +1,24 @@
 ---
-title: Creative Cloud企业教程
-description: Tutorials，帮助您快速掌握企业产品Creative Cloud
+title: Creative Cloud企业版教程
+description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1380'
+source-wordcount: '1366'
 ht-degree: 0%
 
 ---
 
-# Creative Cloud企业教程
+# Creative Cloud企业版教程
 
 ![Creative Cloud英雄图像](../assets/CCEbanner.png)
 
-作为企业创意，您必须与分布式团队协作，建立可扩展的流程，并遵守公司系统和准则。 这些教程可帮助您从企业角度学习Creative Cloud中的新功能。
+作为企业创意人员，您必须与分布式团队协作，建立可扩展的流程，并遵守企业系统和准则。 这些教程可帮助您从企业角度Creative Cloud学习新的功能。
 
 
-## 单击可查看产品教程
+## 单击以查看产品教程
 
 ### Creative Cloud 企业版
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
-      <img alt="通过Creative Cloud从手写到Illustrator" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
+      <img alt="通过Creative Cloud从手写字体到Illustrator" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>从手写到Illustrator(通过Creative Cloud)(PDF)</strong></a>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>通过Creative Cloud从手写字体到Illustrator(PDF)</strong></a>
     </div>
-    <em>借助企业版Creative Cloud的强大功能，Adobe移动和桌面应用程序允许您随时随地在任何设备上进行捕捉、转换和创建</em>
+    <em>借助企业Creative Cloud的强大功能，Adobe移动和桌面应用程序允许您随时随地在任何设备上捕捉、转换和创建</em>
     <br>
   </td>
   <td>
@@ -39,13 +39,13 @@ ht-degree: 0%
       <img alt="从Lightroom Web到InDesign(通过Creative Cloud)" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>通过Lightroom Web到InDesign(PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>从Lightroom Web到InDesign(通过Creative Cloud)(PDF)</strong></a>
     </div>
-    <em>借助Creative Cloud文件和库，将您的创意从相机转变为最终设计</em>
+    <em>利用相机文件和库将您的创意带入Creative Cloud最终设计</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -59,12 +59,12 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="向Spark Page添加滑翔" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+      <img alt="将幻灯片添加到Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
     <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>向Spark页面添加滑动画面(PDF)</strong></a>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>将幻灯片添加到Spark Page(PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page提供一些令人惊叹且易于使用的布局组件，可让您的Web故事栩栩如生</em>
+    <em>Adobe Spark Page提供了一些令人惊叹且易于使用的布局组件，可让您的Web故事栩栩如生</em>
     <br>
   </td>
   <td>
@@ -72,19 +72,19 @@ ht-degree: 0%
       <img alt="在Adobe Spark中创建您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建您的品牌(PDF)</strong></a>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
     </div>
-    <em>Adobe Spark使您能轻松定义品牌</em>
+    <em>Adobe Spark使您能够轻松定义品牌</em>
     <br>
   </td>
   <td>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="与您的新制作艺术家会面：Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
+      <img alt="结识您的新制作艺术家：Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
    </a>
     <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>与您的新制作艺术家会面：Adobe Spark Post(PDF)</strong></a>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>结识您的新制作艺术家：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Spark在您创建布局、定义颜色、导入图稿和排列合成中的元素时会从您那里学习</em>
+    <em>Adobe Spark会在您创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
     <br>
   </td>
 </tr>
@@ -101,123 +101,123 @@ ht-degree: 0%
     <div>
     <a href="alphabetsoup.md"><strong>解码图形格式的字母汤</strong></a>
     </div>
-    <em>JPG、PNG、SVG、GIF和EPS文件都在设计中常用，有的用于网页，有的用于演示文稿、出版物和创意项目。但是，它们是什么意思，你应该选哪个？</em>
+    <em>JPG、PNG、SVG、GIF和EPS文件都常用于设计，有些用于网页，有些用于演示文稿、出版物和创意项目。 但是它们是什么意思，你应该选择哪一个？</em>
     <br>
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="使用Adobe [!DNL Stock]和Photoshop for iPad创建独特的复合" src="assets/CompositePSiPad.jpg" />
+      <img alt="创建独特的Adobe [!DNL Stock] 和Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>使用Adobe [!DNL Stock]和Photoshop for iPad创建独特的复合</strong></a>
+    <a href="compositepsipad.md"><strong>创建独特的Adobe [!DNL Stock] 和Photoshop for iPad</strong></a>
     </div>
-    <em>将Photoshop的强大功能触手可及。了解如何以全新方式使用您最喜爱的Creative Cloud应用程序之一，具有经过重新设计的基于触摸的界面</em>
+    <em>将Photoshop的强大功能触手可及。 通过重新设计的基于触控的界面，了解如何以全新的方式使用您最喜爱的Creative Cloud应用程序</em>
     <br>
   </td>
   <td>
     <a href="cinemagraphps.md">
-      <img alt="使用Photoshop创建Cinemagraphs" src="assets/CinemagraphsPS.jpg" />
+      <img alt="使用Photoshop创建影院" src="assets/CinemagraphsPS.jpg" />
     </a>
     <div>
-    <a href="cinemagraphps.md"><strong>使用Photoshop创建Cinemagraphs</strong></a>
+    <a href="cinemagraphps.md"><strong>使用Photoshop创建影院</strong></a>
     </div>
-    <em>在此分步研讨会视频教程中，您通过将来自Adobe [!DNL Stock]的视频与Photoshop中的巧妙蒙版技术相结合，创建出生动的照片</em>
+    <em>在此分步讲座视频教程中，您可以通过组合来自Adobe的视频来创建动态照片 [!DNL Stock] 在Photoshop</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
-      <img alt="使用Photoshop和After Effects为照片添加引人注目的光照" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+      <img alt="使用Photoshop和After Effects为照片添加非凡光照" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
     <div>
-    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>使用Photoshop和After Effects为照片添加引人注目的光照(PDF)</strong></a>
+    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>使用Photoshop和After Effects为照片添加出众的光照(PDF)</strong></a>
     </div>
-    <em>学习在Adobe After Effects中使用光爆效果以显着增强照片</em>
+    <em>了解如何使用Adobe After Effects中的光突发效果来大幅增强照片</em>
     <br>
    </td>
    <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="使用Photoshop和Adobe [!DNL Stock]快速创建Cinemagraph" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="使用Photoshop和Adobe快速创建Cinemagraph [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe [!DNL Stock](PDF)快速创建Cinemagraph</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe快速创建Cinemagraph [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>在Adobe [!DNL Stock]上搜索无缝循环视频，以在Photoshop中快速组合引人注目的电影</em>
+    <em>在Adobe上搜索无缝循环视频 [!DNL Stock] 在Photoshop</em>
     <br>
   </td>
    <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
-      <img alt="使用Photoshop创建活动照片 — 第1部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
+      <img alt="使用Photoshop创建生活照片 — 第1部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
     <div>
-    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>使用Photoshop创建活动照片 — 第1部分(PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>使用Photoshop创建生活照片 — 第1部分(PDF)</strong></a>
     </div>
-    <em>Adobe Photoshop允许您快速将短视频转换为生动的照片，在任何社交平台上吸引受众</em>
+    <em>Adobe Photoshop可让您快速将短视频转变为生动照片，在任何社交平台上吸引观众</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
-      <img alt="使用Photoshop创建活动照片 — 第2部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
+      <img alt="使用Photoshop创建生活照片 — 第2部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
     <div>
-    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>使用Photoshop创建活动照片 — 第2部分(PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>使用Photoshop创建生活照片 — 第2部分(PDF)</strong></a>
     </div>
-    <em>将照片与视频结合是一种强大的方法，可在不牺牲原始图像信息或色调的情况下，为照片添加引人入胜的品质</em>
+    <em>将照片与视频结合使用是一种功能强大的方法，可以在不牺牲原始图像信息或色调的情况下，为照片添加引人入胜的品质</em>
     <br>
   </td>
   <td>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
-    <img alt="Photoshop + After Effects =棒极了：Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
+    <img alt="Photoshop + After Effects =惊喜：Adobe MAX 2018实验室回顾" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects =棒极了：Adobe MAX 2018 Lab Recap(PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects =惊喜：Adobe MAX 2018实验室回顾(PDF)</strong></a>
     </div>
-    <em>在这个实践的分步实验中，将Photoshop与After Effects结合在一起，创建出适合在任何媒体中使用的令人瞠目结舌的图像和效果</em>
+    <em>在这个实际操作的分步实验室中，将Photoshop与After Effects相结合，即可创建出适用于任何媒体的令人惊叹的图像和效果</em>
     <br>
   </td>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
-      <img alt="使用Adobe Photoshop Actions快速品牌化Instagram照片" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
+      <img alt="使用Adobe Photoshop Actions快速为Instagram照片添加品牌" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
     </a>
     <div>
-    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>使用Instagram Actions快速品牌化Adobe Photoshop照片(PDF)</strong></a>
+    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>使用Adobe Photoshop Actions快速为Instagram照片添加品牌(PDF)</strong></a>
     </div>
-    <em>使用Photoshop中的Actions，消除烦琐和节省大量时间</em>
+    <em>在Photoshop中使用Actions消除单调并节省大量时间</em>
     <br>
   </td>
 </tr>
 <tr>
     <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
-      <img alt="使用Photoshop更智能、更轻松地工作" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
+      <img alt="使用Photoshop更巧妙地工作" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
     <div>
-    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>使用Photoshop(PDF)更智能、更轻松地工作</strong></a>
+    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>使用Photoshop(PDF)，更巧妙而非更努力地工作</strong></a>
     </div>
-    <em>Photoshop中的更改可能很费时，但不一定</em>
+    <em>在Photoshop中进行更改可能很耗时，但并非必须如此</em>
     <br>
   </td>
    <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
-      <img alt="任何人都可以使用Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
+      <img alt="任何人都可以创新Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
     <div>
-    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>向您的创意技能集添加一点Adobe Photoshop(PDF)</strong></a>
+    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>向您的创意技能集中添加一些Adobe Photoshop(PDF)</strong></a>
     </div>
-    <em>将一点Adobe Photoshop添加到您的创意技能集</em>
+    <em>向您的创意技能集中添加一些Adobe Photoshop</em>
     <br>
   </td>
   <td>
     <a href="assets/GreenScreenisNotJustforVideo.pdf">
-      <img alt="绿屏不仅用于视频" src="assets/GreenScreenisNotJustforVideo.jpg" />
+      <img alt="绿屏不仅仅用于视频" src="assets/GreenScreenisNotJustforVideo.jpg" />
     </a>
     <div>
-    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>绿屏不仅用于视频(PDF)</strong></a>
+    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>绿屏不仅仅用于视频(PDF)</strong></a>
     </div>
-    <em>您可以在照片工作室中使用绿屏，并使用After Effects准备在Photoshop中使用照片</em>
+    <em>您可以在摄影棚中使用绿屏，并使用After Effects准备照片以在Photoshop中使用</em>
     <br>
   </td>
 </tr>  
@@ -229,21 +229,21 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="frescoworkshop.md">
-      <img alt="在iPad（和iPhone）上的Fresco上尝试一下" src="assets/Fresco.png" />
+      <img alt="尝试在iPad(和iPhone)上Fresco您的手" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>在iPad（和iPhone）上的Fresco上尝试一下</strong></a>
+   <a href="frescoworkshop.md"><strong>尝试在iPad(和iPhone)上Fresco您的手</strong></a>
     </div>
-    <em>在这个15分钟的实践研讨会中，利用Adobe Fresco探索数字绘图和绘图的全新世界</em>
+    <em>在这个15分钟的实际操作研讨会中通过Adobe Fresco探索数字绘图和绘画的整个新世界</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -261,17 +261,17 @@ ht-degree: 0%
     <div>
    <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Adobe Portfolio入门(PDF)</strong></a>
     </div>
-    <em>与Adobe Portfolio分享您的最佳作品是分享您的成功并吸引新创意人才的有效方式</em>
+    <em>通过Adobe Portfolio共享最佳作品是分享成功和吸引新创意人才的有效方式</em>
     <br>
   </td>
    <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="将Lightroom和Bēhance连接到Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
+      <img alt="将Lightroom和Bhanceē连接到Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>将Lightroom和Bēhance连接到Adobe Portfolio(PDF)</strong></a>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>将Lightroom和Bhanceē连接到Adobe Portfolio(PDF)</strong></a>
     </div>
-    <em>将Bēhance项目用作作品集中的页面</em>
+    <em>将Bhanceē项目用作作品集中的页面</em>
     <br>
   </td>
   <td>
@@ -279,68 +279,68 @@ ht-degree: 0%
       <img alt="展示您使用Adobe Portfolio的最佳作品" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>显示您使用Adobe Portfolio的最佳作品(PDF)</strong></a>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>展示您使用Adobe Portfolio的最佳作品(PDF)</strong></a>
     </div>
-    <em>Adobe Portfolio允许您上传、组织和与世界各地的潜在员工和客户共享您的作品</em>
+    <em>Adobe Portfolio可让您上传、整理并与世界各地的潜在员工和客户共享您的作品</em>
     <br>
   </td>
  </tr>
  </table>
 
 
-### CC库
+### CC Libraries
 
 <table  style="table-layout:fixed">
 <tr>
   <td>
    <a href="ccteamlibraries.md">
-      <img alt="创建团队Creative Cloud库" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="创建Creative Cloud团队库" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="ccteamlibraries.md"><strong>创建团队Creative Cloud库</strong></a>
+   <a href="ccteamlibraries.md"><strong>创建Creative Cloud团队库</strong></a>
     </div>
-    <em>了解如何使用团队版Creative Cloud库在组或团队内共享资源</em>
+    <em>了解如何使用Creative Cloud库团队版共享组或团队中的资源</em>
     <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
-      <img alt="使用团队版Creative Cloud库共享品牌资源" src="assets/ShareLibraries_1280.jpg" />
+      <img alt="与团队版Creative Cloud库共享品牌资源" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharecclibraries.md"><strong>使用团队版Creative Cloud库共享品牌资源</strong></a>
+   <a href="sharecclibraries.md"><strong>与团队版Creative Cloud库共享品牌资源</strong></a>
     </div>
-    <em>了解如何使用团队版Creative Cloud库为您的组或团队创建、使用和共享品牌资源</em>
+    <em>了解如何使用团队版Creative Cloud库为团队或团队创建、使用和共享品牌资源</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="使用Creative Cloud库创建、添加和共享您的品牌资源" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+      <img alt="使用Creative Cloud库创建、添加和共享品牌资源" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>使用Creative Cloud库创建、添加和共享您的品牌资源(PDF)</strong></a>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>使用Creative Cloud库创建、添加和共享品牌资源(PDF)</strong></a>
     </div>
-    <em>Creative Cloud库提供了一个内置的品牌系统，使设计人员能够跨创意团队共享品牌资产</em>
+    <em>Creative Cloud库提供了内置的品牌系统，允许设计人员跨创意团队共享品牌资源</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="使用Illustrator库共享来自Creative Cloud的文本样式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+      <img alt="使用Creative Cloud库共享Illustrator中的文本样式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用Illustrator库共享来自Creative Cloud的文本样式(PDF)</strong></a>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用Creative Cloud库共享Illustrator中的文本样式(PDF)</strong></a>
     </div>
-    <em>在Illustrator更智能地工作</em>
+    <em>在Illustrator中更聪明地工作</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -358,7 +358,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>使用Creative Cloud创建精美的排版(PDF)</strong></a>
     </div>
-    <em>了解如何充分利用您喜爱的设计工具中提供的最新排版控件</em>
+    <em>学习利用最常用的设计工具中的最新排版控件</em>
     <br>
   </td>
    <td>
@@ -368,17 +368,17 @@ ht-degree: 0%
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>使用Creative Cloud发现字体(PDF)</strong></a>
     </div>
-    <em>有时，为项目找到合适的字体可能显得势不可挡。借助各种Creative Cloud应用程序和服务，现在找到正确的字体既有趣又鼓舞人心</em>
+    <em>有时，为项目找到合适的字体可能让人难以接受。 借助各种Creative Cloud应用程序和服务，找到合适的字体现在既有趣又令人鼓舞</em>
     <br>
   </td>
   <td>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="释放隐藏的OpenType字体功能" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+      <img alt="释放字体中的隐藏OpenType" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
    </a>
     <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>充分利用OpenType字体中的隐藏功能(PDF)</strong></a>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>释放OpenType字体中隐藏的Gems(PDF)</strong></a>
     </div>
-    <em>OpenType格式允许字体包含最多65,536种字形</em>
+    <em>该OpenType格式允许字体包含最多65,536种字形</em>
     <br>
   </td>
 </tr>
@@ -393,19 +393,19 @@ ht-degree: 0%
       <img alt="从InDesign创建交互式PDF" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>从InDesign创建交互式PDF(PDF)</strong></a>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>从PDF创建交互式InDesign(PDF)</strong></a>
     </div>
-    <em>InDesign包含许多可帮助您设置、设置样式、管理和跟踪文档中内容的功能</em>
+    <em>InDesign包含许多功能，可帮助您格式、样式、管理和跟踪文档中的内容</em>
     <br>
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="使用Adobe Acrobat和InDesign轻松收集和合并设计反馈" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+      <img alt="借助Adobe Acrobat和InDesign轻松收集并合并设计反馈" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>使用Adobe Acrobat和InDesign轻松收集和合并设计反馈(PDF)</strong></a>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>借助Adobe Acrobat和InDesign轻松收集并合并设计反馈(PDF)</strong></a>
     </div>
-    <em>利益相关方可以使用Acrobat添加详细的注释和批注，然后您可以快速将这些标记放回Adobe InDesign中，在版面的上下文中查看它们</em>
+    <em>利益相关者可以使用Acrobat添加详细的注释和批注，然后您可以快速将这些标记带回Adobe InDesign，以便在版面的上下文中查看它们</em>
     <br>
   </td>
   <td>
@@ -413,7 +413,7 @@ ht-degree: 0%
       <img alt="使用Adobe InDesign CC设计Web内容样式" src="assets/StyleWebContentwithInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>使用Adobe InDesign CC设置Web内容的样式(PDF)</strong></a>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>使用Adobe InDesign CC设计Web内容样式(PDF)</strong></a>
     </div>
     <em>您是否知道可以利用InDesign的强大功能输出HTML和Web图形？</em>
     <br>
@@ -422,26 +422,26 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="交互式PDF:来自InDesign的书签和链接的目录" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="交互式PDF:来自InDesign的书签和链接目录" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>交互式PDF:来自InDesign的书签和链接的目录(PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>交互式PDF:来自InDesign的书签和链接目录(PDF)</strong></a>
     </div>
-    <em>学习在InDesign中使用目录功能生成书签和超链接，帮助读者快速查找PDF文件中的信息</em>
+    <em>了解如何使用InDesign中的“目录”功能来生成书签和超链接，以帮助读者快速查找PDF文件中的信息</em>
     <br>
   </td>
    <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="交互式PDF:图形超链接和嵌套的主页处于InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="交互式PDF:图形超链接和嵌套的InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>交互式PDF:InDesign中的图形超链接和嵌套主页(PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>交互式PDF:图形超链接和嵌套的InDesign主页(PDF)</strong></a>
     </div>
-    <em>通过将超链接应用于主页，您可以快速管理整个页面的导航系统</em>
+    <em>将超链接应用于主页允许您在所有页面中快速管理导航系统</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -459,27 +459,27 @@ ht-degree: 0%
     <div>
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>了解Illustrator中的图形样式(PDF)</strong></a>
     </div>
-    <em>Illustrator使您能够以与文本样式大致相同的方式设置图稿样式</em>
+    <em>Illustrator使您能够采用与设计文本大致相同的方式设计图稿的样式</em>
     <br>
   </td>
    <td>
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="使用Adobe Illustrator CC，更智能地工作，而不是更努力" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+      <img alt="使用Adobe Illustrator CC更巧妙地工作" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
    </a>
     <div>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>使用Adobe Illustrator CC(PDF)更智能、更轻松地工作</strong></a>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>使用Adobe Illustrator CC(PDF)，更巧妙而非更努力地工作</strong></a>
     </div>
     <em>在Illustrator中加快矢量绘图</em>
     <br>
   </td>
   <td>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Illustrator符号+图层=响应式SVG的完美结构！" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+      <img alt="Illustrator符号+图层=用于响应式SVG的完美结构！" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator符号+图层=响应式SVG的完美结构！(PDF)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator符号+图层=用于响应式SVG的完美结构！ (PDF)</strong></a>
     </div>
-    <em>Illustrator对SVG格式提供了无与伦比的支持，包括能够创建符号、组、ID以及精确的矢量图定义</em>
+    <em>Illustrator为SVG格式提供了无与伦比的支持，包括创建符号、组、ID以及图稿的精确矢量定义等功能</em>
     <br>
   </td>
 </tr>
@@ -491,21 +491,21 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="在真实的环境中可视化您的产品" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
+      <img alt="在逼真的环境中可视化产品" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在逼真的环境中使产品可视化(PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在现实环境中可视化您的产品(PDF)</strong></a>
     </div>
-    <em>当您想了解产品在真实世界中的显示效果时，Adobe [!DNLDimension]是您的首选应用程序</em>
+    <em>当您想了解您的产品在现实世界中的外观时，请Adobe [!DNL Dimension] 是您的首选应用程序</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>

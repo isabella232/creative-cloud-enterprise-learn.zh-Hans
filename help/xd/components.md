@@ -1,6 +1,6 @@
 ---
-title: 在Adobe XD中轻松使用[!UICONTROL 组件]
-description: 了解如何使用[!UICONTROL 组件]为您提供前所未有的灵活性，以便将速度和一致性应用于设计工作流程
+title: 使用 [!UICONTROL 组件] 在Adobe XD
+description: 了解如何使用 [!UICONTROL 组件] 为您带来前所未有的灵活性，可让您的设计工作流程实现速度和一致性
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# 在Adobe XD中轻松使用[!UICONTROL 组件]
+# 使用 [!UICONTROL 组件] 在Adobe XD
 
-了解如何使用[!UICONTROL 组件]为您提供前所未有的灵活性，以便将速度和一致性应用于设计工作流程。
+了解如何使用 [!UICONTROL 组件] 为您带来前所未有的灵活性，可让您的设计工作流程实现速度和一致性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-单击PDF文件图标可下载本教程的PDF。
+单击PDF文件图标以下载PDF教程。
 
 [![PDF文件图标](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

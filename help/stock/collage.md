@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 图像为海报创建3D拼贴画
-description: 在Adobe Illustrator中设计一个拼贴画，其中Adobe [!DNL Stock]中的图像具有引人注目的3D效果
+title: 使用Adobe为海报创建3D拼贴 [!DNL Stock] 图像
+description: 在Adobe Illustrator中设计拼贴画，其中采用了引人注目的3D效果，通过Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]图像为海报创建3D拼贴画
+# 使用Adobe为海报创建3D拼贴 [!DNL Stock] 图像
 
-创建吸引注意的海报。 在Adobe [!DNL Stock]中查找相关图像，并在Adobe Illustrator中设计一个拼贴画，该拼贴画具有引人注目的3D效果。
+创建引人注目的海报。 在Adobe中查找相关图像 [!DNL Stock] 并在Adobe Illustrator中设计具有引人注目的3D效果的拼贴画。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 创建团队Creative Cloud库
-description: 了解如何使用团队版Creative Cloud库在组或团队内共享资源
+title: 创建Creative Cloud团队库
+description: 了解如何使用Creative Cloud库团队版共享组或团队中的资源
 role: User
 level: Beginner, Intermediate
 kt: 8209
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# 创建团队Creative Cloud库
+# 创建Creative Cloud团队库
 
-在此视频教程中，了解如何使用团队版Creative Cloud库在组或团队内共享资源。 这些类型的库不绑定到单个用户帐户，而是属于团队。 可以通过![生成图像](assets/Smock_Building_18_N.png)图标标识团队库。
+在本视频教程中，了解如何使用Creative Cloud库团队版共享组或团队中的资源。 这些类型的库未绑定到个人用户帐户，而是属于团队。 您可以通过 ![构建图像](assets/Smock_Building_18_N.png) 图标。
 
 >[!TIP]
 >
->在您的组织必须保留创意资源所有权的任何时候使用团队版Creative Cloud库。 例如：公司风格指南、共享项目和UI设计元素。
+>只要您的Creative Cloud必须保留对创意资源的所有权，您就可以随时使用团队库。 一些示例包括：企业风格指南、共享项目和UI设计元素。
 
 <br> 
 

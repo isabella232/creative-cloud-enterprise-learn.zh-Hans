@@ -1,6 +1,6 @@
 ---
 title: 教程
-description: 欢迎使用企业学习中心Creative Cloud
+description: 欢迎使用企业Creative Cloud学习中心
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 ![Creative Cloud英雄图像](assets/hero_cce.jpg)
 
-欢迎使用企业学习中心Creative Cloud。 您将发现以企业Creative Cloud为重点的各种学习体验。 我们的教程、网络研讨会和使用案例旨在快速使初学者和管理员了解企业产品的Creative Cloud。
+欢迎使用Creative Cloud企业学习中心。 您将发现各种侧重于企业版Creative Cloud的学习体验。 我们的教程、网络研讨会和使用案例旨在帮助初学者和管理员快速了解企业产品的Creative Cloud。
 
 ## 浏览主题
 
@@ -38,7 +38,7 @@ ht-degree: 10%
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>高品质数字图像、插图、视频、音频、模板等</em>
+    <em>高质量的数字图像、插图、视频、音频、模板等</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ ht-degree: 10%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>设计、创建原型并共享用户体验</em>
+    <em>设计、原型创建和共享用户体验</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ ht-degree: 10%
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe3D和VR</strong></a>
     </div>
-    <em>为品牌、产品拍摄和包装设计创建逼真的3D图像</em>
+    <em>创建用于品牌、产品拍摄和包装设计的逼真3D图像</em>
     <br>
   </td>
   <td>
@@ -70,17 +70,17 @@ ht-degree: 10%
     <div>
    <a href="dva/overview-dva.md"><strong>Adobe视频</strong></a>
     </div>
-    <em>使用Adobe软件和应用程序实现您的创意，包括视频编辑、动态图形、视觉效果、动画等</em>
+    <em>借助用于视频编辑、动态图形、视觉效果、动画等的Adobe软件和应用程序，让您的想法变为现实</em>
     <br>
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — 企业会话" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 — 企业会议" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — 企业会话</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 — 企业会议</strong></a>
     </div>
-    <em>全面了解MAX 2020企业会话</em>
+    <em>了解有关MAX 2020企业版会话的所有信息</em>
     <br>
   </td>
 </tr>

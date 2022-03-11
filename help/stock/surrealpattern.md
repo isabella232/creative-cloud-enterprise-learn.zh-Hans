@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock]创建半超现实图案
-description: 基于来自Adobe [!DNL Stock]的超现实图像创建精美的无缝图案
+title: 创建具有Adobe的半超现实图案 [!DNL Stock]
+description: 基于来自Adobe的超现实图像创建精美的无缝图案 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]创建半超现实图案
+# 创建具有Adobe的半超现实图案 [!DNL Stock]
 
-基于来自Adobe [!DNL Stock]的超现实图像创建美观的无缝图案。
+基于来自Adobe的超现实图像创建精美的无缝图案 [!DNL Stock]的
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

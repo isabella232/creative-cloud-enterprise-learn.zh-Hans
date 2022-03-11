@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 图像创建逼真的复合照片
-description: 将两张精美的Adobe [!DNL Stock] 照片组合在一起，将人物吸引到您的社交帖子中
+title: 使用Adobe创建逼真的合成照片 [!DNL Stock] 图像
+description: 将两个伟大的Adobe [!DNL Stock] 用于将人物添加到社交帖子的照片
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]图像创建逼真的复合照片
+# 使用Adobe创建逼真的合成照片 [!DNL Stock] 图像
 
-将两张出色的[!DNL Stock]Adobe照片组合在一起，将人物吸引到您的社交帖子中。
+将两个伟大的Adobe [!DNL Stock] 照片，将人物吸引到您的社交帖子中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

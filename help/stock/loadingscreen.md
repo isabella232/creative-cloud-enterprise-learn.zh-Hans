@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 和XD自定义加载屏幕动画
-description: 从Adobe [!DNL Stock] 自定义矢量图稿，为移动应用程序创建令人胆寒的加载屏幕动画
+title: 使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD
+description: 从Adobe自定义矢量图稿 [!DNL Stock] 为移动应用程序创建令人不寒而栗的加载屏幕动画
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]和XD自定义加载屏幕动画
+# 使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD
 
-从Adobe [!DNL Stock]自定义矢量图稿，为移动应用程序创建令人胆寒的加载屏幕动画。
+从Adobe自定义矢量图稿 [!DNL Stock] 为移动应用程序创建令人不寒而栗的加载屏幕动画。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 和Photoshop为电子邮件创建动画
-description: 使用Adobe [!DNL Stock] 和Photoshop，通过停止动作动画增强您的电子邮件功能
+title: 创建电子邮件动画并添加Adobe [!DNL Stock] 和Photoshop
+description: 借助静帧动画和Adobe [!DNL Stock] 和Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe [!DNL Stock]和Photoshop为电子邮件创建动画
+# 创建电子邮件动画并添加Adobe [!DNL Stock] 和Photoshop
 
-通过Adobe[!DNL Stock]和Photoshop，通过停止动作动画增强您的电子邮件功能。
+借助静帧动画和Adobe [!DNL Stock] 和Photoshop。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

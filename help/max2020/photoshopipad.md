@@ -1,6 +1,6 @@
 ---
-title: Photoshop on iPad
-description: 使用iPad上的Photoshop随时随地创作您能想象到的一切
+title: iPad上的Photoshop
+description: 借助iPad上的Photoshop，随时随地创造灵感
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Photoshop on iPad
+# iPad上的Photoshop
 
-![教程英雄图像](../assets/PSoniPad.jpg)
+![英雄图像教程](../assets/PSoniPad.jpg)
 
-Photoshop是世界上最好的图像和图形设计软件，可为不同设备的专业人士提供无限的创意。 现在，任何人都可以创作想象到的任何东西，灵感随处可见。 如果你能想到，你可以用Photoshop。
+Photoshop是世界一流的图像处理和图形设计软件，可让专业人士在不同设备上尽情发挥创意。 现在，任何人都可以在灵感迸发时创造自己想象的一切。 如果你能想得到，你就能利用Photoshop。
 
 ## 浏览产品Tutorials
 
@@ -23,49 +23,49 @@ Photoshop是世界上最好的图像和图形设计软件，可为不同设备�
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="iPad上的Photoshop简介" src="../assets/PSiPad_thumbnail.jpg" />
+      <img alt="Photoshop iPad简介" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
-   <a href="photoshopipad.md#tutorial1"><strong>iPad上的Photoshop简介</strong></a>
+   <a href="photoshopipad.md#tutorial1"><strong>Photoshop iPad简介</strong></a>
     </div>
-    <em>浏览界面并了解Photoshop中的一些功能，这些功能经过重新设计，可在Apple iPad上使用</em>
+    <em>浏览界面，了解Photoshop中重新设计并在Apple iPad上使用的部分功能</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## iPad上的Photoshop简介(5:14) {#tutorial1}
+## Photoshop iPad介绍(5:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
-**描**
-述浏览界面并了解Photoshop中的一些功能，这些功能经过重新设计后可在Apple iPad上使用。
+**说明**
+浏览界面，了解Photoshop中重新设计并在Apple iPad上使用的部分功能。
 
 在本教程中，您将学习如何：
-* 访问您最喜爱的Photoshop工具，
-* 在移动设备上进行精确编辑，而不影响质量
-* 更身临其境、更自然的体验
-* 使用Cloud Docs实现无缝的工作流
+* 在
+* 在移动设备上实现精准编辑，同时不影响质量
+* 更引人入胜的自然体验
+* 使用云文档的无缝工作流程
 
-**演示者：Dan**
-Armstrong，解决方案顾问（数字媒体）
+**提供者：**
+Dan Armstrong，解决方案顾问（数字媒体）
 
 ![Photoshop on iPad徽标](../assets/ps_appicon_96.png)
 
-**Photoshop在iPad资源上**
+**Photoshop on iPad Resources**
 
-[学习和支持](https://helpx.adobe.com/support/photoshop.html) 是您的中心，提供更多教程和社区论坛链接。
+[学习和支持](https://helpx.adobe.com/support/photoshop.html) 是更多教程和社区论坛链接的中心。
 
 **2020年10月版**
 
-开始使用这些功能（等等！） 从Creative Cloud桌面应用程序下载最新更新。
+开始使用这些功能（等等！） 从您的Creative Cloud桌面应用程序下载最新更新。

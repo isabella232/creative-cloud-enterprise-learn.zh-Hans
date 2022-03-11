@@ -1,6 +1,6 @@
 ---
 title: 企业管理
-description: 管理整个组织中的Adobe权利和资产
+description: 管理Adobe在整个组织中的权利和资源
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -13,9 +13,9 @@ ht-degree: 3%
 
 # 企业管理
 
-![教程英雄图像](../assets/hero_cce.jpg)
+![英雄图像教程](../assets/hero_cce.jpg)
 
-管理整个组织中的Adobe权利和资源。
+管理Adobe在整个组织中的权利和资源。
 
 ## 浏览企业管理Tutorials
 
@@ -28,16 +28,16 @@ ht-degree: 3%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>浏览Adobe Fonts近200个家庭以及Adobe Fonts服务的易用性</em>
+    <em>浏览Adobe Fonts近200个家庭和Adobe Fonts服务的易用性</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -53,16 +53,16 @@ ht-degree: 3%
 浏览Adobe Fonts近200个家庭以及Adobe Fonts服务的易用性。
 
 在本教程中，您将学习如何：
-* 使用功能强大的浏览界面快速轻松地找到正确的字体
-* 使用本机Creative Cloud集成节省时间和资金
-* 在Adobe Admin Console的一个位置管理所有字体
+* 使用功能强大的浏览界面快速轻松地查找正确的字体
+* 使用原生Creative Cloud集成
+* 在Adobe Admin Console中一个位置管理所有字体
 
-**呈列者：**
+**提供者：**
 
-Todd Burke，首席解决方案顾问(Digital Media)
+Todd Burke，首席解决方案顾问（数字媒体）
 
 **企业管理资源：**
 
 [Adobe Fonts用户指南](https://helpx.adobe.com/fonts/user-guide.html)
 
-[企业管理指南](https://helpx.adobe.com/enterprise/admin-guide.html)
+[企业管理员指南](https://helpx.adobe.com/enterprise/admin-guide.html)

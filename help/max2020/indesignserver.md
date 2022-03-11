@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server软件提供一个强大、可伸缩的引擎，该引擎利用InDesign的设计、布局和排版功能，帮助您有计划地创建引人入胜的自动化文档
+description: AdobeAdobe®InDesign® Server软件提供功能强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能以编程方式创建引人入胜的自动化文档
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # InDesign Server
 
-![教程英雄图像](../assets/InDesignServer.jpg)
+![英雄图像教程](../assets/InDesignServer.jpg)
 
-Adobe Adobe® InDesign® Server软件提供一个强大、可伸缩的引擎，该引擎利用InDesign的设计、布局和排版功能，帮助您有计划地创建引人入胜的自动化文档。
+AdobeAdobe®InDesign® Server软件提供功能强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能使您能够有计划地创建引人入胜的自动化文档。
 
 ## 浏览产品Tutorials
 
@@ -23,41 +23,41 @@ Adobe Adobe® InDesign® Server软件提供一个强大、可伸缩的引擎，�
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="数据驱动InDesign Server内容" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="数据驱动的InDesign Server内容" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>数据驱动InDesign Server内容</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>数据驱动的InDesign Server内容</strong></a>
     </div>
-    <em>数据驱动设计可以通过InDesign Server以编程方式实现</em>
+    <em>数据驱动设计可以通过编程来实现，并具有InDesign Server</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## 数据驱动InDesign Server内容(4:14) {#tutorial1}
+## 数据驱动的InDesign Server内容(4:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
-**描**
-述数据驱动设计可以通过InDesign Server以编程方式实现。
+**说明**
+数据驱动设计可以通过编程来实现，并具有InDesign Server。
 
 在本教程中，您将学习如何：
-* 使用预格式化的文本或对象样式创建InDesign模板
-* 通过外部数据驱动的内容流，加快内容个性化
-* 生成版面的专色PDF，或与其他AEM驱动的输出格式绑定
+* 创建InDesign模板，其中具有预先设置的文本或对象样式
+* 在外部数据驱动的内容中流动，以加快内容的个性化
+* 生成版面的PDF专色，或绑定到其他AEM驱动的输出格式
 
-**演示者：Eric**
-Rowse，高级解决方案顾问（数字媒体）
+**提供者：**
+Eric Rowse，高级解决方案顾问（数字媒体）
 
 ## 其他InDesign Server资源
 
@@ -80,11 +80,11 @@ Rowse，高级解决方案顾问（数字媒体）
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server:查找合作伙伴</strong></a>
     </div>
-    <em>尽管您拥有内部开发的专业知识，Adobe建议与合作伙伴合作，找到满足您要求的解决方案</em>
+    <em>虽然您拥有在公司内部开发的专业知识，但Adobe建议与合作伙伴共同寻找满足您要求的解决方案</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -95,8 +95,8 @@ Rowse，高级解决方案顾问（数字媒体）
 
 **InDesign Server资源**
 
-[学习和支](https://www.adobe.com/products/indesignserver.html) 持是您的中心，可以获取更多教程、新增功能以及社区论坛链接。
+[学习和支持](https://www.adobe.com/products/indesignserver.html) 是更多教程、新增功能和社区论坛链接的中心。
 
 **2020年10月版**
 
-开始使用这些功能（等等！） 从Creative Cloud桌面应用程序下载最新更新。
+开始使用这些功能（等等！） 从您的Creative Cloud桌面应用程序下载最新更新。

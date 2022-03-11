@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock]创建公司指南信息图
-description: 将Adobe [!DNL Stock] 中的各种资源组合在一起，以具有视觉吸引力的信息图形形式传达指导原则
+title: 使用Adobe创建公司指南信息图 [!DNL Stock]
+description: 合并来自Adobe的各种资源 [!DNL Stock] 以引人注目的信息图形式传达指南
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]创建公司指南信息图
+# 使用Adobe创建公司指南信息图 [!DNL Stock]
 
-将Adobe[!DNL Stock]中的各种资源组合在一起，以具有视觉吸引力的信息图形形式传达指导原则。
+合并来自Adobe的各种资源 [!DNL Stock] 以引人注目的信息图形式传达指南。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

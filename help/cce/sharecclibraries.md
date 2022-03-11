@@ -1,6 +1,6 @@
 ---
-title: 使用团队版Creative Cloud库共享品牌资源
-description: 了解如何使用团队版Creative Cloud库为您的组或团队创建、使用和共享品牌资源
+title: 与团队版Creative Cloud库共享品牌资源
+description: 了解如何使用团队版Creative Cloud库为团队或团队创建、使用和共享品牌资源
 role: User
 level: Beginner, Intermediate
 kt: 8211
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# 使用团队版Creative Cloud库共享品牌资源
+# 与团队版Creative Cloud库共享品牌资源
 
-在此视频教程中，了解如何使用团队版Creative Cloud库为您的组或团队创建、使用和共享品牌资源。 团队Creative Cloud库中的资源存储在一个中心位置，不与单个用户帐户关联。 可以通过![生成图像](assets/Smock_Building_18_N.png)图标标识团队库。
+在本视频教程中，了解如何使用团队版Creative Cloud库为团队或团队创建、使用和共享品牌推广资源。 适用于团队的Creative Cloud库中的资源存储在一个中心位置，并且不绑定到单个用户帐户。 您可以通过 ![构建图像](assets/Smock_Building_18_N.png) 图标。
 
 >[!TIP]
 >
->在您的组织必须保留创意资源所有权的任何时候使用团队版Creative Cloud库。 例如：公司风格指南、共享项目和UI设计元素。
+>只要您的Creative Cloud必须保留对创意资源的所有权，您就可以随时使用团队库。 一些示例包括：企业风格指南、共享项目和UI设计元素。
 
 <br> 
 

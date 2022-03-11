@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock]创建半超现实复合
-description: 通过将多个图像与颜色、运动和蒙版效果相结合，创建令人难忘的编辑图像
+title: 使用Adobe创建半超现实 [!DNL Stock]
+description: 将多个图像与颜色、运动和蒙版效果相结合，创建令人难忘的编辑图像
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]创建半超现实复合
+# 使用Adobe创建半超现实 [!DNL Stock]
 
 通过将多个图像与颜色、运动和蒙版效果相结合，创建令人难忘的编辑图像。
 

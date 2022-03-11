@@ -1,6 +1,6 @@
 ---
-title: 在Photoshop中为Adobe [!DNL Stock] 矢量插图设置动画
-description: 将Adobe带有可编辑矢量的Newsletter图形 [!DNL Stock]
+title: 制作Adobe [!DNL Stock] Photoshop中的矢量插图
+description: 将带有可编辑矢量的动画引入您的新闻稿图形以进行Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 在Photoshop中为Adobe[!DNL Stock]矢量插图设置动画
+# 制作Adobe [!DNL Stock] Photoshop中的矢量插图
 
-将Adobe[!DNL Stock]的可编辑矢量导入新闻稿图形中。
+将带有可编辑矢量的动画引入您的新闻稿图形以进行Adobe [!DNL Stock]的
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

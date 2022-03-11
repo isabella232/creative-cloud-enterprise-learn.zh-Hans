@@ -1,6 +1,6 @@
 ---
-title: 从使用Adobe [!DNL Stock] 和Spark Video创建的视频开始年度报告
-description: 使用Adobe [!DNL Stock] 和Spark Video，将年度报告变为故事
+title: 用视频开始您的年报，该视频使用Adobe [!DNL Stock] 和Spark Video
+description: 利用Adobe制作年报 [!DNL Stock] 和Spark Video
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 从使用Adobe[!DNL Stock]和Spark Video创建的视频开始年度报告
+# 用视频开始您的年报，该视频使用Adobe [!DNL Stock] 和Spark Video
 
-使用Adobe [!DNL Stock]和Spark Video，让年度报告成为故事。
+利用Adobe制作年报 [!DNL Stock] 和Spark Video。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

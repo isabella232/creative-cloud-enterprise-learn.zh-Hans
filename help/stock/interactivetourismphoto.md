@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 和XD创建交互式旅游照片
-description: 使用Adobe [!DNL Stock] & XD在网站原型中快速创建交互式照片
+title: 使用Adobe创建交互式旅游照片 [!DNL Stock] 和XD
+description: 使用Adobe在网站原型中快速创建交互式照片 [!DNL Stock] 和XD
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe [!DNL Stock]和XD创建交互式旅游照片
+# 使用Adobe创建交互式旅游照片 [!DNL Stock] 和XD
 
-使用Adobe [!DNL Stock] &amp; XD在网站原型中快速创建交互式照片。
+使用Adobe在网站原型中快速创建交互式照片 [!DNL Stock] 和XD。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

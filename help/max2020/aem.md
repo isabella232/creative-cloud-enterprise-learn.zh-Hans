@@ -1,6 +1,6 @@
 ---
-title: AEM Assets和资源链接
-description: AEMsset和链接列表
+title: AEM Assets和Asset Link
+description: AEM集和链接列表
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
@@ -11,11 +11,11 @@ ht-degree: 1%
 
 ---
 
-# AEM Assets和资源链接
+# AEM Assets和Asset Link
 
-![教程英雄图像](../assets/AEM.jpg)
+![英雄图像教程](../assets/AEM.jpg)
 
-Adobe Experience Manager是面向企业和中型企业的行业领先的数字体验管理解决方案。 它为提供引人注目的体验提供了一个可扩展的现代基础，这些体验可促进品牌参与、推动需求并提高客户忠诚度。 Experience Manager包括一整套工具，用于创建、管理和提供跨所有渠道的数字体验。
+Adobe Experience Manager是业界领先的企业和中型组织数字体验管理解决方案。 它提供了一个现代、可扩展的基础，可提供令人信服的体验，从而提高品牌吸引力、推动需求并提高客户忠诚度。 Experience Manager包含一整套工具，用于跨所有渠道创建、管理和提供数字体验。
 
 ## 浏览产品Tutorials
 
@@ -23,61 +23,61 @@ Adobe Experience Manager是面向企业和中型企业的行业领先的数字�
 <tr>
  <td>
    <a href="aem.md#tutorial1">
-      <img alt="AEM和资产链接" src="../assets/aem_assetlink_rowse_thumbnail.jpg" />
+      <img alt="AEM和Asset Link" src="../assets/aem_assetlink_rowse_thumbnail.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial1"><strong>AEM和资产链接</strong></a>
+   <a href="aem.md#tutorial1"><strong>AEM和Asset Link</strong></a>
     </div>
-    <em>使用Asset Link对存储在AEM中的资源进行实时更新</em>
+    <em>使用Asset Link实时更新存储在AEM中的资源</em>
     <br>
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="InDesign文件托管于AEM中" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
+      <img alt="InDesign在AEM中托管的文件" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>InDesign文件托管于AEM中</strong></a>
+   <a href="aem.md#tutorial2"><strong>InDesign在AEM中托管的文件</strong></a>
     </div>
-    <em>将InDesign文档托管在AEM中，以便多个用户可以同时创建内容变体</em>
+    <em>将您的InDesign文档托管在AEM中，以便多个用户可以同时创建不同的内容</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## AEM和资产链接(5:45) {#tutorial1}
+## AEM和Asset Link(5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
-**描**
-述使用Asset Link对存储在AEM中的资源进行实时更新。
+**说明**
+使用Asset Link实时更新存储在AEM中的资源。
 
 在本教程中，您将学习如何：
-* 使用专用面板搜索和浏览设计程序内的资源，在需要时找到所需内容
-* 直接从您的设计计划轻松上传资源
-* 将DAM中的资产登记到您的设计计划中，以进行实时更新
+* 在需要时通过专用面板查找所需内容，以便在设计程序中搜索和浏览资源
+* 直接从设计程序轻松上传资源
+* 签出DAM中的资源并将其签入您的设计计划以进行实时更新
 
-**演示者：Eric**
-Rowse，高级解决方案顾问（数字媒体）
+**提供者：**
+Eric Rowse，高级解决方案顾问（数字媒体）
 
-## InDesign文件托管在AEM中(3:16) {#tutorial2}
+## InDesign文件在AEM中托管(3:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
-**描**
-述在AEM中托管InDesign文档，以便多个用户可以同时创建内容变体。
+**说明**
+将您的InDesign文档托管在AEM中，以便多个用户可以同时创建不同的内容。
 
 在本教程中，您将学习如何：
-* 将InDesign文件上载到AEM以进行常见存储访问
-* 安全地创建变体，而不必担心会破坏源文件
-* 文档字段是预先设置的格式，允许快速编辑或更改内容
+* 将InDesign文件上传到AEM以进行常见存储访问
+* 安全地创建变体，而不必担心会损坏源文件
+* 文档字段已预先设置格式，因此可快速编辑或更改内容
 
-**演示者：Eric**
-Rowse，高级解决方案顾问（数字媒体）
+**提供者：**
+Eric Rowse，高级解决方案顾问（数字媒体）
 
 <table style="table-layout:fixed">
 <tr>
@@ -88,7 +88,7 @@ Rowse，高级解决方案顾问（数字媒体）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>适合您的内容和数字资产管理需求的强大组合</em>
+    <em>可满足您的内容和数字资产管理需求的功能强大的组合</em>
     <br>
   </td>
   <td>
@@ -108,7 +108,7 @@ Rowse，高级解决方案顾问（数字媒体）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets:优势</strong></a>
     </div>
-    <em>让您的数字资产为您所用</em>
+    <em>让您的数字资产为您服务</em>
     <br>
   </td>
 </tr>
@@ -116,10 +116,10 @@ Rowse，高级解决方案顾问（数字媒体）
 
 ![AEM徽标](../assets/aem_appicon_noshadow_96.png)
 
-**资源链接和AEM资源**
+**Asset Link和AEM Resources**
 
-[学习和支](https://helpx.adobe.com/support/experience-manager.html) 持是您的中心，可以获取更多教程、新增功能以及社区论坛链接。
+[学习和支持](https://helpx.adobe.com/support/experience-manager.html) 是更多教程、新增功能和社区论坛链接的中心。
 
 **2020年10月版**
 
-开始使用这些功能（等等！） 从Creative Cloud桌面应用程序下载最新更新。
+开始使用这些功能（等等！） 从您的Creative Cloud桌面应用程序下载最新更新。

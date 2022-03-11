@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: 创建徽标、图标、插图和您可以为Web、移动设备或印刷想象到的任何其他设计
+description: 创建徽标、图标、插图以及您可以为Web、移动设备或印刷品想象的任何其他设计
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Illustrator
 
-![教程英雄图像](../assets/Illustrator.jpg)
+![英雄图像教程](../assets/Illustrator.jpg)
 
-用于插图和图形的现代应用程序。 创建徽标、图标、插图和您可以为Web、移动设备或印刷想象到的任何其他设计。
+现代插图和图形应用程序。 创建徽标、图标、插图以及您可以为Web、移动设备或印刷品想象的任何其他设计。
 
 ## 浏览产品Tutorials
 
@@ -23,64 +23,64 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="使用元件更新多个图标实例" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="使用符号更新多个图标实例" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>使用元件更新多个图标实例</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>使用符号更新多个图标实例</strong></a>
     </div>
-    <em>减少手动工作并保持符号的一致性</em>
+    <em>减少手动操作并保持与符号的一致性</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="使用字形对齐功能对齐文本和图像" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="使用对齐字形功能对齐文本和图像" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>使用字形对齐功能对齐文本和图像</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>使用对齐字形功能对齐文本和图像</strong></a>
     </div>
-    <em>快速将字形对齐到文档的重要区域</em>
+    <em>快速将字形与文档的重要区域对齐</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## 使用元件更新多个图标实例(5:08) {#tutorial1}
+## 使用符号更新多个图标实例(5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-**描**
-述减少手动工作并保持符号的一致性。
+**说明**
+减少手动操作并保持与符号的一致性。
 
 在本教程中，您将学习如何：
-* 减少手动工作并保持符号的一致性
+* 减少手动操作并保持与符号的一致性
 
-**主讲人：Patti**
-Sokol，首席解决方案顾问(Digital Media)
+**提供者：**
+Patti Sokol，首席解决方案顾问（数字媒体）
 
 ## 使用字形对齐功能对齐文本和图像(6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-**描**
-述快速将字形对齐到文档的重要区域。
+**说明**
+快速将字形与文档的重要区域对齐。
 
 在本教程中，您将学习如何：
-* 快速将字形对齐到文档的重要区域
+* 快速将字形与文档的重要区域对齐
 
-**主讲人：Patti**
-Sokol，首席解决方案顾问(Digital Media)
+**提供者：**
+Patti Sokol，首席解决方案顾问（数字媒体）
 
 ![Illustrator徽标](../assets/ai_appicon_96.png)
 
-**Illustrator资源**
+**Illustrator Resources**
 
-[学习和支持](https://helpx.adobe.com/support/illustrator.html) 是您的中心，提供更多教程和社区论坛链接。
+[学习和支持](https://helpx.adobe.com/support/illustrator.html) 是更多教程和社区论坛链接的中心。
 
 **2020年10月版**
 
-开始使用这些功能（等等！） 从Creative Cloud桌面应用程序下载最新更新。
+开始使用这些功能（等等！） 从您的Creative Cloud桌面应用程序下载最新更新。

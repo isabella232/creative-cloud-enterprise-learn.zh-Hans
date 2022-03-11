@@ -1,6 +1,6 @@
 ---
-title: 使用绚丽的渐变和Adobe [!DNL Stock] 资源创建具有凝聚力的品牌形象
-description: 通过在广告营销活动中组合颜色和渐变，以各种图像创建品牌统一
+title: 通过精美的渐变和Adobe创建统一的品牌形象 [!DNL Stock] assets
+description: 通过在广告活动中组合颜色和渐变，使用各种图像创建品牌一致性
 role: User
 level: Beginner, Intermediate
 thumbnail: 331809.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用绚丽的渐变效果和Adobe[!DNL Stock]资源创建具有凝聚力的品牌形象
+# 通过精美的渐变和Adobe创建统一的品牌形象 [!DNL Stock] assets
 
-将Adobe[!DNL Stock]的可编辑矢量导入新闻稿图形中。
+将带有可编辑矢量的动画引入您的新闻稿图形以进行Adobe [!DNL Stock]的
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 创建具有Adobe [!DNL Stock]的交互式产品配置器
-description: 使用Adobe [!DNL Stock] 中的交互性、动画和可编辑图稿的强大功能以可视方式呈现财务信息
+title: 创建交互式产品配置器和Adobe [!DNL Stock]
+description: 利用Adobe中的交互性、动画和可编辑图稿的强大功能 [!DNL Stock] 以可视化方式呈现财务信息
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 创建具有Adobe[!DNL Stock]的交互式产品配置器
+# 创建交互式产品配置器和Adobe [!DNL Stock]
 
-使用Adobe [!DNL Stock]中交互性、动画和可编辑图稿的强大功能以可视方式显示财务信息。
+利用Adobe中的交互性、动画和可编辑图稿的强大功能 [!DNL Stock] 目视方式呈报财务资料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

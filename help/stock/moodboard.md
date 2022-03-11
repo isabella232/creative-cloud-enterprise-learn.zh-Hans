@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock]立即创建激发灵感的情绪板
-description: 创建项目情绪板，将信息、想法、视觉效果和调色板传递给团队/客户
+title: 使用Adobe立即创建富有灵感的情绪板 [!DNL Stock]
+description: 创建项目情绪板，向团队/客户传递信息、创意、视觉效果和调色板
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe [!DNL Stock]立即创建激发灵感的情绪板
+# 使用Adobe立即创建富有灵感的情绪板 [!DNL Stock]
 
-创建项目情绪板，将信息、想法、视觉效果和调色板传递给团队/客户。
+创建项目情绪板，向团队/客户传递信息、创意、视觉效果和调色板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

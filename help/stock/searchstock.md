@@ -1,6 +1,6 @@
 ---
 title: 搜索Adobe [!DNL Stock] 许可历史记录
-description: 了解如何在Creative Cloud企业版中快速搜索组织的Adobe [!DNL Stock] 许可历史记录
+description: 了解如何快速搜索组织的Adobe [!DNL Stock] 适用于企业的Creative Cloud中的许可历史记录
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 搜索Adobe[!DNL Stock]许可历史记录
+# 搜索Adobe [!DNL Stock] 许可历史记录
 
-在此视频教程中，了解如何在Creative Cloud企业版中快速搜索您组织的Adobe[!DNL Stock]许可历史记录。
+在本视频教程中，了解如何快速搜索组织的Adobe [!DNL Stock] 适用于企业的Creative Cloud中的许可历史记录。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

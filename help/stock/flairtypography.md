@@ -1,6 +1,6 @@
 ---
-title: 通过蒙版和动画为排版增色
-description: 使用Adobe [!DNL Stock] 中的元素和After Effects中的动画样式使文本栩栩如生
+title: 使用蒙版和动画为排版添加风格
+description: 使用Adobe中的元素让文本栩栩如生 [!DNL Stock] 和动画样式的After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 通过蒙版和动画为排版增色
+# 使用蒙版和动画为排版添加风格
 
-使用Adobe [!DNL Stock]中的元素和After Effects中的动画样式使文本栩栩如生。
+使用Adobe中的元素让文本栩栩如生 [!DNL Stock] 和After Effects动画样式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

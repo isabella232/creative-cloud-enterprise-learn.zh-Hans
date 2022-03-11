@@ -1,6 +1,6 @@
 ---
-title: 自定义Adobe [!DNL Stock] 矢量插图中的颜色
-description: 通过精美的插图为任何项目添加润饰效果。 在Adobe [!DNL Stock]中查找完美的矢量，然后使用Adobe Illustrator将颜色与项目调色板匹配
+title: 自定义Adobe中的颜色 [!DNL Stock] 矢量插图
+description: 借助精美的插图，为任何项目添加美感。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将颜色与项目的调色板匹配
 role: User
 level: Beginner, Intermediate
 thumbnail: 331826.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 自定义Adobe[!DNL Stock]矢量插图中的颜色
+# 自定义Adobe中的颜色 [!DNL Stock] 矢量插图
 
-通过精美的插图为任何项目添加润饰效果。 在Adobe[!DNL Stock]中查找完美的矢量，然后使用Adobe Illustrator将颜色与项目调色板匹配。
+借助精美的插图，为任何项目添加美感。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将颜色与项目的调色板匹配。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

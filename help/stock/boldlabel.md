@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe [!DNL Stock] 模板和Photoshop智能对象创建粗体标签
-description: 使用Adobe [!DNL Stock]中逼真的打包模板设计和可视化自定义设计
+title: 创建带有Adobe的粗体标签 [!DNL Stock] 模板和Photoshop智能对象
+description: 使用来自Adobe的逼真打包模板设计和呈现您的自定义设计 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe[!DNL Stock]模板和Photoshop智能对象创建粗体标签
+# 创建带有Adobe的粗体标签 [!DNL Stock] 模板和Photoshop智能对象
 
-使用Adobe [!DNL Stock]中逼真的打包模板设计和可视化自定义设计    .
+使用来自Adobe的逼真打包模板设计和呈现您的自定义设计 [!DNL Stock]    的
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

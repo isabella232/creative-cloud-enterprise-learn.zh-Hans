@@ -1,6 +1,6 @@
 ---
-title: 使用Photoshop创建电影
-description: 在此分步研讨会视频教程中，通过将来自Adobe [!DNL Stock] 的视频与Photoshop中的巧妙蒙版技术相结合，创建生动的照片
+title: 使用Photoshop创建影院
+description: 在此分步讲座视频教程中，通过合并来自Adobe的视频 [!DNL Stock] 在Photoshop
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 使用Photoshop创建电影
+# 使用Photoshop创建影院
 
-在此分步研讨会视频教程中，通过将来自Adobe [!DNL Stock]的视频与Photoshop中的巧妙蒙版技术相结合，创建生动的照片。
+在此分步讲座视频教程中，通过合并来自Adobe的视频 [!DNL Stock] 借助Photoshop中的巧妙蒙版技术。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 

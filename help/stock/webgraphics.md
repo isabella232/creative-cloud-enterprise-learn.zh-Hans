@@ -1,6 +1,6 @@
 ---
-title: 通过将Adobe [!DNL Stock] 图像与CSS组合，创建引人入胜的Web图形
-description: 通过在广告营销活动中组合颜色和渐变，以各种图像创建品牌统一
+title: 通过合并Adobe [!DNL Stock] 图像与CSS
+description: 通过在广告活动中组合颜色和渐变，使用各种图像创建品牌一致性
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 通过将Adobe[!DNL Stock]图像与CSS结合，创建引人入胜的Web图形
+# 通过合并Adobe [!DNL Stock] 图像与CSS
 
-通过在广告营销活动中组合颜色和渐变，以各种图像创建品牌统一。
+通过在广告营销活动中组合颜色和渐变，使用各种图像创建品牌一致性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 更改Adobe [!DNL Stock] 图像的颜色以匹配您的故事
-description: 使出色的图像更难支持您的信息。 在Adobe [!DNL Stock] 中查找独特的照片，然后在Adobe Photoshop中调整颜色以满足您的需要
+title: 更改Adobe [!DNL Stock] 与您的故事匹配的图像颜色
+description: 让一张出色的图像更难处理以支持您的信息。 在Adobe中查找独特的照片 [!DNL Stock] 然后在Adobe Photoshop中调整颜色以满足您的需求
 role: User
 level: Beginner, Intermediate
 thumbnail: 331810.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 更改Adobe[!DNL Stock]图像的颜色以匹配您的故事
+# 更改Adobe [!DNL Stock] 与您的故事匹配的图像颜色
 
-使出色的图像更难支持您的信息。 在Adobe [!DNL Stock]中查找独特的照片，然后在Adobe Photoshop中调整颜色以满足您的需要。
+让一张出色的图像更难处理以支持您的信息。 在Adobe中查找独特的照片 [!DNL Stock] 然后根据需要调整Adobe Photoshop中的颜色。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

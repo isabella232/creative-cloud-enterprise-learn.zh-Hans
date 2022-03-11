@@ -1,6 +1,6 @@
 ---
-title: 将手绘美感添加到Adobe [!DNL Stock] 图像
-description: 使用Photoshop for iPad的独特技术增强您的创意营销，为您的图像增添深度和维度
+title: 向Adobe添加手绘美学 [!DNL Stock] 图像
+description: 借助独特的技术提升创意营销效果，使用适用于iPad的Photoshop为您的图像增添深度和维度
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 向Adobe[!DNL Stock]图像添加手绘美感
+# 向Adobe添加手绘美学 [!DNL Stock] 图像
 
-使用Photoshop for iPad，利用可为图像增加深度和维度的独特技术来增强您的创意营销。
+借助独特的技术提升您的创意营销效果，这些技术使用适用于iPad的Photoshop为您的图像增添深度和维度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)
