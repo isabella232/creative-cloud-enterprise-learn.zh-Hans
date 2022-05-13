@@ -4,9 +4,9 @@ description: Tutorials，可帮助您及时了解AdobeDVA产品
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="在Adobe Premiere中通过自动闪避平滑地组合音乐与对话或旁白 [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="在Adobe Premiere中通过自动闪避平滑地组合音乐与对话或旁白 [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere中通过自动闪避平滑地组合音乐与对话或旁白 [!DNL Rush] Adobe(PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere中通过自动闪避平滑地组合音乐与对话或旁白 [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] 在一个简单易用的应用程序中提供高级视频编辑功能，使任何人都可以在几分钟内创建专业品质的视频</em>
     <br>
