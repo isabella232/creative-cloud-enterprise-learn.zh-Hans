@@ -4,7 +4,7 @@ description: Adobe [!DNL Capture] 将手机和平板电脑转变为设计收藏�
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] 将手机和平板电脑转变为设计收藏夹工具。 �
     <div>
    <a href="capture.md#tutorial1"><strong>从周围世界捕捉灵感</strong></a>
     </div>
-    <em>使用Adobe捕获中功能强大的选择工具和颜色编辑工具显著更改图像，以满足您的企业品牌需求</em>
+    <em>使用Adobe Capture中功能强大的选择工具和颜色编辑工具显著更改图像，以满足企业品牌推广需求</em>
     <br>
   </td>
   <td>
