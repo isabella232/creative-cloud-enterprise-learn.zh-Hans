@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D光照， 600全局MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ ht-degree: 0%
 
 我希望这篇概述文章阐明了在各种情况下掌握3D光照的重要性。 您应当准备好开始产生更引人注目的结果。
 
-祝您有一段愉快的“光照”之旅！ 下载 [最新版本](https://creativecloud.adobe.com/apps/download/[!DNL Dimension])的Dimension。
+祝您有一段愉快的“光照”之旅！ 下载 [最新版本](https://creativecloud.adobe.com/apps/download/Dimension) Dimension。

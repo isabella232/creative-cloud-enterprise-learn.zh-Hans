@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] “适用于企业”使创意团队能够访问
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![英雄图像教程](../assets/Stock.jpg)
 
 创意人员正面临快速交付引人注目的新内容的压力，这些内容将吸引并吸引眼球。 Adobe [!DNL Stock] “适用于企业”使创意团队能够访问超过2亿个图像、视频、模板、插图、音频文件和3D资源 — 所有这些内容都可在其每天使用的Adobe创意应用程序中使用。
 
