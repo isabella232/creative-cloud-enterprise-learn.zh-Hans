@@ -4,9 +4,9 @@ description: AdobeAdobe®InDesign® Server软件提供功能强大且可扩展�
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![英雄图像教程](../assets/InDesignServer.jpg)
 
-AdobeAdobe®InDesign® Server软件提供功能强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能使您能够有计划地创建引人入胜的自动化文档。
+Adobe InDesign® Server软件提供强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能，以编程方式创建引人入胜的自动化文档。
 
 ## 浏览产品Tutorials
 
