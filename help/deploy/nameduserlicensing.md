@@ -4,9 +4,9 @@ description: 通过指定用户许可(NUL)许可Adobe产品，允许IT管理员�
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 通过指定用户许可(NUL)许可Adobe产品，允许IT管理员使用Admin Console轻松部署和管理Adobe工具，并为最终用户提供对世界级创意和工作效率应用程序以及Adobe云服务的访问权限，即使整个工作人员都在远程也是如此。
 
-如果您的组织未启用NUL，且仍在为Adobe产品使用序列化部署，则您的序列号可能即将过期。 为避免服务中断，在迁移到NUL之前，务必进行规划 [序列号过期](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration)的
+如果您的组织未启用NUL，且仍在为Adobe产品使用序列化部署，则您的序列号可能即将过期。 为避免服务中断，务必在序列号到期之前规划向NUL的迁移。
 
 ## 关于指定用户许可
 
