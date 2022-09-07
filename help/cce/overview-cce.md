@@ -4,10 +4,10 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ ht-degree: 0%
 
 
 ## 单击以查看产品教程
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="适用于内容创作者的Acrobat" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>适用于内容创建者的Acrobat(PDF)</strong></a>
+    </div>
+    <em>了解有助于简化创意工作流程的Acrobat工具</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud 企业版
 
@@ -53,7 +70,7 @@ ht-degree: 0%
 </table>
 
 
-### Spark
+### Adobe Express(以前称为Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ ht-degree: 0%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>将幻灯片添加到Spark Page(PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page提供了一些令人惊叹且易于使用的布局组件，可让您的Web故事栩栩如生</em>
+    <em>Adobe Express提供了一些令人惊叹且易于使用的布局组件，让您的Web故事栩栩如生</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
     </div>
-    <em>Adobe Spark使您能够轻松定义品牌</em>
+    <em>Adobe Express使您能够轻松定义品牌</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ ht-degree: 0%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>结识您的新制作艺术家：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Spark会在您创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
+    <em>Adobe Express在创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
     <br>
   </td>
 </tr>
