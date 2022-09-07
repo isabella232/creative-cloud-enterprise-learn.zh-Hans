@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ ht-degree: 0%
     <em>在Photoshop中使用Actions消除单调并节省大量时间</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="使用Photoshop更巧妙地工作" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ ht-degree: 0%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>绿屏不仅仅用于视频(PDF)</strong></a>
     </div>
     <em>您可以在摄影棚中使用绿屏，并使用After Effects准备照片以在Photoshop中使用</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ ht-degree: 0%
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="驯服型焦虑" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>驯服型焦虑(PDF)</strong></a>
+    </div>
+    <em>了解如何在Creative Cloud中访问和使用20,000多种专业设计的字体</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="使用Creative Cloud创建精美的排版" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ ht-degree: 0%
     <em>该OpenType格式允许字体包含最多65,536种字形</em>
     <br>
   </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
