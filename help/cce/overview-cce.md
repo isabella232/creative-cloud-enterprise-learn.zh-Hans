@@ -4,10 +4,10 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ ht-degree: 1%
    <a href="assets/AcrobatforContentCreators.pdf"><strong>适用于内容创建者的Acrobat(PDF)</strong></a>
     </div>
     <em>了解有助于简化创意工作流程的Acrobat工具</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ ht-degree: 1%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>将幻灯片添加到Spark Page(PDF)</strong></a>
     </div>
-    <em>Adobe Express提供了一些令人惊叹且易于使用的布局组件，让您的Web故事栩栩如生</em>
+    <em>Adobe Spark提供了一些令人惊叹且易于使用的布局组件，可让您的Web故事栩栩如生</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
     </div>
-    <em>Adobe Express使您能够轻松定义品牌</em>
+    <em>Adobe Spark使您能够轻松定义品牌</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ ht-degree: 1%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>结识您的新制作艺术家：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Express在创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
+    <em>Adobe Spark会在您创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ ht-degree: 1%
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="解码图形格式的字母汤" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ ht-degree: 1%
     <em>在此分步讲座视频教程中，您可以通过组合来自Adobe的视频来创建动态照片 [!DNL Stock] 在Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="使用Photoshop和After Effects为照片添加非凡光照" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ ht-degree: 1%
     </div>
     <em>了解如何使用Adobe After Effects中的光突发效果来大幅增强照片</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="使用Photoshop和Adobe快速创建Cinemagraph [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ ht-degree: 1%
     <em>在Adobe上搜索无缝循环视频 [!DNL Stock] 在Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="使用Photoshop创建生活照片 — 第1部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ ht-degree: 1%
     <em>Adobe Photoshop可让您快速将短视频转变为生动照片，在任何社交平台上吸引观众</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="使用Photoshop创建生活照片 — 第2部分" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ ht-degree: 1%
     <em>在这个实际操作的分步实验室中，将Photoshop与After Effects相结合，即可创建出适用于任何媒体的令人惊叹的图像和效果</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="使用Adobe Photoshop Actions快速为Instagram照片添加品牌" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="使用Photoshop更巧妙地工作" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ ht-degree: 1%
     <em>在Photoshop中进行更改可能很耗时，但并非必须如此</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="任何人都可以创新Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ ht-degree: 1%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>绿屏不仅仅用于视频(PDF)</strong></a>
     </div>
     <em>您可以在摄影棚中使用绿屏，并使用After Effects准备照片以在Photoshop中使用</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ ht-degree: 1%
     <em>通过Adobe Portfolio共享最佳作品是分享成功和吸引新创意人才的有效方式</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="将Lightroom和Bhanceē连接到Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ ht-degree: 1%
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>展示您使用Adobe Portfolio的最佳作品(PDF)</strong></a>
     </div>
     <em>Adobe Portfolio可让您上传、整理并与世界各地的潜在员工和客户共享您的作品</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ ht-degree: 1%
     <em>Creative Cloud库提供了内置的品牌系统，允许设计人员跨创意团队共享品牌资源</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="使用Creative Cloud库共享Illustrator中的文本样式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ ht-degree: 1%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用Creative Cloud库共享Illustrator中的文本样式(PDF)</strong></a>
     </div>
     <em>在Illustrator中更聪明地工作</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ ht-degree: 1%
     <em>该OpenType格式允许字体包含最多65,536种字形</em>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ ht-degree: 1%
     <em>您是否知道可以利用InDesign的强大功能输出HTML和Web图形？</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="交互式PDF:来自InDesign的书签和链接目录" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ ht-degree: 1%
     <em>了解如何使用InDesign中的“目录”功能来生成书签和超链接，以帮助读者快速查找PDF文件中的信息</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="交互式PDF:图形超链接和嵌套的InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ ht-degree: 1%
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>交互式PDF:图形超链接和嵌套的InDesign主页(PDF)</strong></a>
     </div>
     <em>将超链接应用于主页允许您在所有页面中快速管理导航系统</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ ht-degree: 1%
     <em>Illustrator为SVG格式提供了无与伦比的支持，包括创建符号、组、ID以及图稿的精确矢量定义等功能</em>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ ht-degree: 1%
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在现实环境中可视化您的产品(PDF)</strong></a>
     </div>
     <em>当您想了解您的产品在现实世界中的外观时，请Adobe [!DNL Dimension] 是您的首选应用程序</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
