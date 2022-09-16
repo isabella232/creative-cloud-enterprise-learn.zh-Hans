@@ -4,9 +4,9 @@ description: Tutorials，帮助您快速了解Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud英雄图像](../assets/Stock.jpg)
 
-创意人员正面临快速交付引人注目的新内容的压力，这些内容需要捕获并吸引眼球。 Adobe [!DNL Stock] “适用于企业”使创意团队能够访问超过2亿个图像、视频、模板、插图、音频文件和3D资源 — 所有这些内容都可在其每天使用的Adobe创意应用程序中使用。
-
+创意人员面临快速交付引人入胜的视觉内容的压力。 借助Adobe Stock，创意团队能够访问他们每天使用的Creative Cloud应用程序中的3亿多免费图像、视频、音频文件、模板、插图和3D资源。 通过Adobe Stock Pro版，无限制地访问Creative Cloud标准资源。 在stock.adobe.com上浏览最新的收藏集
 
 ## 单击以查看Adobe [!DNL Stock] 教程
 
