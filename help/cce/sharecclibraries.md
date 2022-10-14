@@ -6,16 +6,16 @@ level: Beginner, Intermediate
 kt: 8211
 thumbnail: KT-8211
 exl-id: 47a16b70-3f0b-43b1-9b0d-9ee18df00254
-source-git-commit: f44f4c5cda6cd6bafccdff64a4d0f46213b67cbb
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 # 与团队版Creative Cloud库共享品牌资源
 
-在本视频教程中，了解如何使用团队版Creative Cloud库为团队或团队创建、使用和共享品牌推广资源。 适用于团队的Creative Cloud库中的资源存储在一个中心位置，并且不绑定到单个用户帐户。 您可以通过 ![构建图像](assets/Smock_Building_18_N.png) 图标。
+了解如何使用团队版Creative Cloud库为团队或团队创建、使用和共享品牌资源。 适用于团队的Creative Cloud库中的资源存储在一个中心位置，并且不绑定到单个用户帐户。 您可以通过 ![构建图像](assets/Smock_Building_18_N.png) 图标。
 
 >[!TIP]
 >

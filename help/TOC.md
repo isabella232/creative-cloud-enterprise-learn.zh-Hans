@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看专注于企业版Creative Cloud的教程和快速参考指南。
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [概述](cce/overview-cce.md)
    + 教程 {#ccetutorials}
+      + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
       + [创建Creative Cloud团队库](cce/ccteamlibraries.md)
       + [与团队版Creative Cloud库共享品牌资源](cce/sharecclibraries.md)
       + [创建独特的Adobe [!DNL Stock] 和Photoshop for iPad](cce/compositepsipad.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD](stock/loadingscreen.md)
       + [自定义Adobe [!DNL Stock] 展现专业水准的演示文稿模板](stock/presentationtemplate.md)
       + [自定义Adobe中的颜色 [!DNL Stock] 矢量插图](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [概述](xd/overview-xd.md)
-   + 教程 {#xdtutorials}
-   + [使用 [!UICONTROL 组件] 在Adobe XD](xd/components.md)
 + 3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
    + 教程 {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + 视频 {#videooverview}
-   + [教程](dva/overview-dva.md)
+   + [概述](dva/overview-dva.md)
+   + 教程 {#videotutorials}
+      + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
+   + [快速参考指南](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [概述](xd/overview-xd.md)
+   + 教程 {#xdtutorials}
+   + [使用 [!UICONTROL 组件] 在Adobe XD](xd/components.md)
 + 部署和管理 {#deploy}
    + [概述](deploy/overview-deploy.md)
    + [序列号过期](deploy/cceserial.md)

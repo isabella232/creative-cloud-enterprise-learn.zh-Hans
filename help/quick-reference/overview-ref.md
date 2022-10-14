@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,39 @@ ht-degree: 0%
 作为企业创意人员，您必须与分布式团队协作，建立可扩展的流程，并遵守企业系统和准则。 这些快速参考指南可帮助您了解Creative Cloud中的新增功能。
 
 
-## 单击以下载PDF的快速参考指南
+## 单击可下载快速参考指南PDF（按字母顺序列出的产品）
+
+### Adobe Express(以前称为Adobe Spark)
+
+<table>
+<tr>
+ <td>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf">
+      <img alt="使用Spark创建、编辑和共享网页" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>使用Spark创建、编辑和共享网页(PDF)</strong></a>
+    </div>
+    <em>使用Adobe Spark中简单直观的工具和来自Adobe的精美图像，为您的网页创建交互式、响应式且支持Lightbox的照片网格 [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud 企业版
 
@@ -54,7 +86,6 @@ ht-degree: 0%
     <em>探索移动设备上的Lightroom的惊人功能，呈现最佳图像效果</em>
     <br>
   </td>
-</tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
       <img alt="使用Creative Cloud素描、合成和定版小册子版面" src="../assets/acrobat_PDF_96.png" />
@@ -65,32 +96,95 @@ ht-degree: 0%
     <em>使用Adobe Comp在您的移动设备上快速探索针对印刷、Web、移动或社交的版面创意</em>
     <br>
   </td>
+</tr>
+</table>
+
+### Fonts
+
+<table>
+<tr>
   <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
+      <img alt="使用Creative Cloud创建精美的排版" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>无限Adobe Fonts触手可及(PDF)</strong></a>
+    </div>
+    <em>[!DNL Capture] 真实世界中有趣的字体使用Adobe [!DNL Capture] 在移动设备上，使用Adobe Fonts和Creative Cloud库识别并激活并保存相似字体</em>
+    <br>
+  </td>
+   <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-
-### Adobe Express(以前称为Adobe Spark)
+### Fresco
 
 <table>
 <tr>
  <td>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="使用Spark创建、编辑和共享网页" src="../assets/acrobat_PDF_96.png" />
+   <a href="Frescoworkshop.pdf">
+      <img alt="尝试在iPad(和iPhone)上Fresco您的手" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>使用Spark创建、编辑和共享网页(PDF)</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>尝试在iPad(和iPhone)上Fresco您的手(PDF)</strong></a>
     </div>
-    <em>使用Adobe Spark中简单直观的工具和来自Adobe的精美图像，为您的网页创建交互式、响应式且支持Lightbox的照片网格 [!DNL Stock]</em>
+    <em>在这个15分钟的实际操作研讨会中通过Adobe Fresco探索数字绘图和绘画的整个新世界</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
+      <img alt="借助Illustrator for iPad，使用图像和形状创建合成图像" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>使用Illustrator for iPad中的图像和形状创建合成图像(PDF)</strong></a>
+    </div>
+    <em>Illustrator使您能够采用与设计文本大致相同的方式设计图稿的样式</em>
+    <br>
+  </td>
+   <td>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
+      <img alt="使用XD、Illustrator和CSS实现响应式动画SVG" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>使用XD、Illustrator和CSS的响应式动画SVG(PDF)</strong></a>
+    </div>
+    <em>只需几行CSS，即可向SVG文件添加一些动画</em>
     <br>
   </td>
   <td>
@@ -140,8 +234,6 @@ ht-degree: 0%
     <em>通过合并来自Adobe的视频 [!DNL Stock] 借助Photoshop中的巧妙蒙版技术。 通过运动和战略循环点让图像栩栩如生</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="使用Photoshop + After Effects创建令人瞠目的图形" src="../assets/acrobat_PDF_96.png" />
@@ -152,6 +244,8 @@ ht-degree: 0%
     <em>在After Effects中使用常用的视频技术来快速移除照片中的背景颜色，以便为您的设计项目创建独特的照片复合</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="了解Photoshop iPad" src="../assets/acrobat_PDF_96.png" />
@@ -167,93 +261,17 @@ ht-degree: 0%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="Frescoworkshop.pdf">
-      <img alt="尝试在iPad(和iPhone)上Fresco您的手" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="Frescoworkshop.pdf"><strong>尝试在iPad(和iPhone)上Fresco您的手(PDF)</strong></a>
-    </div>
-    <em>在这个15分钟的实际操作研讨会中通过Adobe Fresco探索数字绘图和绘画的整个新世界</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### XD
-
-<table>
-<tr>
-   <td>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD:高级语音原型制作" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD:高级语音原型制作(PDF)</strong></a>
-    </div>
-    <em>创建交互式原型，以便对用户的单击、触摸和音频输入做出响应</em>
-    <br>
-  </td>
-   <td>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="协同编辑：使用Adobe XD进行实时设计协作" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>协同编辑：使用Adobe XD进行实时设计协作(PDF)</strong></a>
-    </div>
-    <em>通过内置于Adobe XD和Creative Cloud中的独一无二的共享工具，了解如何与同事、客户和开发人员协作处理交互式原型</em>
-    <br>
-  </td>
-  <td>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
-      <img alt="设计交互式项目并为其创建原型Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>设计交互式项目并为其创建原型Creative Cloud(PDF)</strong></a>
-    </div>
-    <em>通过将Adobe XD与各种独特的多功能资源结合在Adobe上，只需几分钟即可创建完全交互且动画化的用户体验 [!DNL Stock]</em>
-    <br>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="让我们来XD — 了解如何设计、创建原型以及将作品移交给团队" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>让我们来XD — 了解如何设计、创建原型以及将内容移交给团队(PDF)</strong></a>
-    </div>
-    <em>组件为您提供了前所未有的灵活性，可将速度和一致性应用于设计工作流程</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### [!DNL Stock]
@@ -290,8 +308,6 @@ ht-degree: 0%
     <em>[!DNL Capture] 将摄影与来自Adobe [!DNL Stock]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
       <img alt="使用Adobe [!DNL Stock] 动态图形模板" src="../assets/acrobat_PDF_96.png" />
@@ -302,6 +318,8 @@ ht-degree: 0%
     <em>通过从Adobe添加动态图形模板和设计，以更具影响力的方式表示数据 [!DNL Stock]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
       <img alt="在现实世界中展示您的设计作品" src="../assets/acrobat_PDF_96.png" />
@@ -322,58 +340,9 @@ ht-degree: 0%
     <em>在Photoshop中将静态图像和视频组合在一起，为您的营销活动创建引人入胜的动画GIF，它适合各种客户电子邮件应用程序</em>
     <br>
   </td>
-</tr>
-</table>
-
-### Fonts
-
-<table>
-<tr>
-  <td>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="使用Creative Cloud创建精美的排版" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>无限Adobe Fonts触手可及(PDF)</strong></a>
-    </div>
-    <em>[!DNL Capture] 真实世界中有趣的字体使用Adobe [!DNL Capture] 在移动设备上，使用Adobe Fonts和Creative Cloud库识别并激活并保存相似字体</em>
-    <br>
-  </td>
-   <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table>
-<tr>
-   <td>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="借助Illustrator for iPad，使用图像和形状创建合成图像" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>使用Illustrator for iPad中的图像和形状创建合成图像(PDF)</strong></a>
-    </div>
-    <em>Illustrator使您能够采用与设计文本大致相同的方式设计图稿的样式</em>
-    <br>
-  </td>
-   <td>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="使用XD、Illustrator和CSS实现响应式动画SVG" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>使用XD、Illustrator和CSS的响应式动画SVG(PDF)</strong></a>
-    </div>
-    <em>只需几行CSS，即可向SVG文件添加一些动画</em>
     <br>
   </td>
   <td>
@@ -406,6 +375,11 @@ ht-degree: 0%
    <a href="SkiptheShootGettheShot.pdf"><strong>跳过拍摄 — 开始拍摄(PDF)</strong></a>
     </div>
     <em>在中自定义和标记3D模型 [!DNL Dimension] 使用材质、环境属性、光照和摄影，为任何设计项目创建写实的图像</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -450,7 +424,6 @@ ht-degree: 0%
     <em>通过将视频和图形结合到Premiere Pro中，在社交媒体上讲述引人入胜的故事</em>
     <br>
   </td>
-<tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
       <img alt="拍摄、编辑、发布照片，带有Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -461,15 +434,52 @@ ht-degree: 0%
     <em>将视频和动态图形组合在一起，借助Premiere中简单易用的编辑工具和动态图形模板，为社交媒体讲述引人入胜的故事 [!DNL Rush]</em>
     <br>
   </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
+</table>
+
+### XD
+
+<table>
+<tr>
+   <td>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
+      <img alt="Adobe XD:高级语音原型制作" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD:高级语音原型制作(PDF)</strong></a>
+    </div>
+    <em>创建交互式原型，以便对用户的单击、触摸和音频输入做出响应</em>
+    <br>
+  </td>
+   <td>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
+      <img alt="协同编辑：使用Adobe XD进行实时设计协作" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>协同编辑：使用Adobe XD进行实时设计协作(PDF)</strong></a>
+    </div>
+    <em>通过内置于Adobe XD和Creative Cloud中的独一无二的共享工具，了解如何与同事、客户和开发人员协作处理交互式原型</em>
+    <br>
+  </td>
+  <td>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
+      <img alt="设计交互式项目并为其创建原型Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>设计交互式项目并为其创建原型Creative Cloud(PDF)</strong></a>
+    </div>
+    <em>通过将Adobe XD与各种独特的多功能资源结合在Adobe上，只需几分钟即可创建完全交互且动画化的用户体验 [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
+      <img alt="让我们来XD — 了解如何设计、创建原型以及将作品移交给团队" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>让我们来XD — 了解如何设计、创建原型以及将内容移交给团队(PDF)</strong></a>
+    </div>
+    <em>组件为您提供了前所未有的灵活性，可将速度和一致性应用于设计工作流程</em>
+    <br>
+  </td>
+ </tr>
 </table>
