@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看专注于企业版Creative Cloud的教程和快速参考指南。
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [概述](cce/overview-cce.md)
    + 教程 {#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
+      + [使用CC Libraries改进CC工作流程](cce/cc-workflows-cc-libraries.md)
       + [创建Creative Cloud团队库](cce/ccteamlibraries.md)
       + [与团队版Creative Cloud库共享品牌资源](cce/sharecclibraries.md)
       + [创建独特的Adobe [!DNL Stock] 和Photoshop for iPad](cce/compositepsipad.md)

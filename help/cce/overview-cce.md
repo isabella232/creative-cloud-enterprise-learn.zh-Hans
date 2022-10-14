@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="适用于内容创作者的Acrobat" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>适用于内容创建者的Acrobat(PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>适用于内容创建者的Acrobat(PDF)</strong></a>
     </div>
     <em>了解有助于简化创意工作流程的Acrobat工具</em>
     <br>
@@ -141,6 +141,16 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="使用CC Libraries改进CC工作流程" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>使用CC Libraries改进CC工作流程</strong></a>
+    </div>
+    <em>了解Creative Cloud库如何使设计元素保持在一起，从而确保设计人员和团队的项目一致性</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="创建Creative Cloud团队库" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ ht-degree: 0%
     <em>Creative Cloud库提供了内置的品牌系统，允许设计人员跨创意团队共享品牌资源</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="使用Creative Cloud库共享Illustrator中的文本样式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ ht-degree: 0%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用Creative Cloud库共享Illustrator中的文本样式(PDF)</strong></a>
     </div>
     <em>在Illustrator中更聪明地工作</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
