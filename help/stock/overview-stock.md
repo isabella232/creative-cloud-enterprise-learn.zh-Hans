@@ -4,9 +4,9 @@ description: Tutorials，帮助您快速了解Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1211'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud英雄图像](../assets/Stock.jpg)
 
-创意人员面临快速交付引人入胜的视觉内容的压力。 借助Adobe Stock，创意团队能够访问他们每天使用的Creative Cloud应用程序中的3亿多免费图像、视频、音频文件、模板、插图和3D资源。 通过Adobe Stock Pro版，无限制地访问Creative Cloud标准资源。 在stock.adobe.com上浏览最新的收藏集
-
-## 单击以查看Adobe [!DNL Stock] 教程
+创意人员面临快速交付引人入胜的视觉内容的压力。 借助Adobe Stock，创意团队能够访问他们每天使用的Creative Cloud应用程序中的3亿多免费图像、视频、音频文件、模板、插图和3D资源。 通过Adobe Stock Pro版，无限制地访问Creative Cloud标准资源。 在stock.adobe.com上浏览最新的收藏集。 选择图像以查看教程。
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ ht-degree: 0%
     <em>使用Adobe中的元素让文本栩栩如生 [!DNL Stock] 和动画样式的After Effects</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="animatevector.md">
          <img alt="制作Adobe [!DNL Stock] Photoshop中的矢量插图" src="assets/animatevector.jpg" />
       </a>
@@ -63,6 +59,8 @@ ht-degree: 0%
       <em>将带有可编辑矢量的动画引入您的新闻稿图形以进行Adobe [!DNL Stock]</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="annualreport.md">
          <img alt="用视频开始您的年报，该视频使用Adobe [!DNL Stock] 和Spark Video" src="assets/annualreport.jpg" />
@@ -83,9 +81,7 @@ ht-degree: 0%
       <em>使用Adobe [!DNL Stock] 图像、纹理、图案到Photoshop中的自定义动画</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="changecolors.md">
          <img alt="更改Adobe [!DNL Stock] 与您的故事匹配的图像颜色" src="assets/changecolors.jpg" />
       </a>
@@ -105,6 +101,8 @@ ht-degree: 0%
       <em>在Adobe Illustrator中设计拼贴画，其中采用了引人注目的3D效果，通过Adobe [!DNL Stock]</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="创建带有Adobe的粗体标签 [!DNL Stock] 模板和Photoshop智能对象" src="assets/boldlabel.jpg" />
@@ -115,9 +113,7 @@ ht-degree: 0%
       <em>使用来自Adobe的逼真打包模板设计和呈现您的自定义设计 [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="infographic.md">
          <img alt="使用Adobe创建公司指南信息图 [!DNL Stock]" src="assets/infographic.jpg" />
       </a>
@@ -179,9 +175,7 @@ ht-degree: 0%
       <em>使用Adobe在网站原型中快速创建交互式照片 [!DNL Stock] 和XD</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="animationemail.md">
          <img alt="创建电子邮件动画并添加Adobe [!DNL Stock] 和Photoshop" src="assets/animationemail.jpg" />
       </a>
@@ -191,6 +185,8 @@ ht-degree: 0%
       <em>借助静帧动画和Adobe [!DNL Stock] 和Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
  <td>
       <a href="brandgradients.md">
          <img alt="通过精美的渐变和Adobe创建统一的品牌形象 [!DNL Stock] assets" src="assets/brandgradients.jpg" />
@@ -211,9 +207,7 @@ ht-degree: 0%
       <em>通过在广告活动中组合颜色和渐变，使用各种图像创建品牌一致性</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="moodboard.md">
          <img alt="使用Adobe立即创建富有灵感的情绪板 [!DNL Stock]" src="assets/moodboard.jpg" />
       </a>
@@ -233,6 +227,8 @@ ht-degree: 0%
       <em>将两个伟大的Adobe [!DNL Stock] 用于将人物添加到社交帖子的照片</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD" src="assets/loadingscreen.jpg" />
@@ -243,9 +239,7 @@ ht-degree: 0%
     <em>从Adobe自定义矢量图稿 [!DNL Stock] 为移动应用程序创建令人不寒而栗的加载屏幕动画</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="presentationtemplate.md">
       <img alt="自定义Adobe [!DNL Stock] 展示模板：专业但引人注目" src="assets/presentationtemplate.jpg" />
    </a>
@@ -265,6 +259,8 @@ ht-degree: 0%
     <em>借助精美的插图，为任何项目添加美感。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将颜色与项目的调色板匹配</em>
     <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="使用Adobe为静止图像添加动态 [!DNL Stock] 和Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
@@ -278,31 +274,31 @@ ht-degree: 0%
 </tr>
 <tr>
    <td>
-   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf">
+   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="在iPad上使用Photoshop创建合成图像并Adobe [!DNL Stock] 图像" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
    </a>
     <div>
-   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf"><strong>在iPad上使用Photoshop创建合成图像并Adobe [!DNL Stock] 图像(PDF)</strong></a>
+   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>在iPad上使用Photoshop创建合成图像并Adobe [!DNL Stock] 图像(PDF)</strong></a>
     </div>
     <em>了解如何借助iPad上的Photoshop功能，以全新的方式使用您最喜爱的Adobe Creative Cloud应用程序之一</em>
     <br>
   </td>
    <td>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf">
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank">
       <img alt="制作Adobe [!DNL Stock] Photoshop中的矢量插图" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf"><strong>制作Adobe [!DNL Stock] Photoshop中的矢量插图(PDF)</strong></a>
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>制作Adobe [!DNL Stock] Photoshop中的矢量插图(PDF)</strong></a>
     </div>
     <em>通过将After Effects与Adobe [!DNL Stock]，您可以快速创建令人惊叹的特效，以帮助您直观地讲述故事</em>
     <br>
   </td>
    <td>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
          <img alt="通过合并图形创建独特的Adobe [!DNL Stock] 图像" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>通过合并图形创建独特的Adobe [!DNL Stock] 图像(PDF)</strong></a>
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>通过合并图形创建独特的Adobe [!DNL Stock] 图像(PDF)</strong></a>
       </div>
       <em>将两个不同的图像组合在一起，为您的设计项目创建全新的场景。 Adobe [!DNL Stock] Adobe Photoshop让一切变得简单</em>
       <br>
@@ -310,66 +306,76 @@ ht-degree: 0%
 </tr>
 <tr>
    <td>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf">
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="使用Photoshop CC创建万圣节电影院并创建Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf"><strong>使用Photoshop CC创建万圣节电影院并创建Adobe [!DNL Stock] (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>使用Photoshop CC创建万圣节电影院并创建Adobe [!DNL Stock] (PDF)</strong></a>
       </div>
       <em>使用Adobe Photoshop合成视频、插图和照片，创造电影效果</em>
       <br>
   </td>
    <td>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf">
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="让您的数据具有Adobe [!DNL Stock] 和Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf"><strong>让您的数据具有Adobe [!DNL Stock] 和Premiere Pro(PDF)</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>让您的数据具有Adobe [!DNL Stock] 和Premiere Pro(PDF)</strong></a>
       </div>
       <em>让您的数据栩栩如生，使用Adobe [!DNL Stock] 和Adobe Premiere Pro</em>
       <br>
   </td>
    <td>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf">
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank">
          <img alt="重新着色Adobe [!DNL Stock] 使用Adobe Illustrator的矢量图稿获得您想要的外观" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf"><strong>重新着色Adobe [!DNL Stock] 矢量图稿与Adobe Illustrator搭配以获得所需的外观(PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>重新着色Adobe [!DNL Stock] 矢量图稿与Adobe Illustrator搭配以获得所需的外观(PDF)</strong></a>
       </div>
       <em>Adobe [!DNL Stock] 使您能够轻松找到独特的矢量图形，Adobe Illustrator可让您快速修改这些图形以匹配您的创意构想</em>
       <br>
    </td>
- </tr> 
- <tr>
    <td>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="使用Adobe在现实世界中展示您的设计作品 [!DNL Stock] 和Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>使用Adobe在现实世界中展示您的设计作品 [!DNL Stock] 和Photoshop(PDF)</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用Adobe在现实世界中展示您的设计作品 [!DNL Stock] 和Photoshop(PDF)</strong></a>
       </div>
       <em>按照这些步骤，以逼真的方式展示您的Adobe [!DNL Stock] 使用Adobe Photoshop的模板</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf">
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="在Adobe中发现令人惊叹的细节 [!DNL Stock] 图像与Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf"><strong>在Adobe中发现令人惊叹的细节 [!DNL Stock] 图像与Lightroom for mobile(PDF)</strong></a>
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>在Adobe中发现令人惊叹的细节 [!DNL Stock] 图像与Lightroom for mobile(PDF)</strong></a>
       </div>
       <em>在移动设备上探索Lightroom的强大功能，让您的图像发挥出最佳效果</em>
       <br>
   </td>
    <td>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf">
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="使用Adobe在现实世界中可视化海报设计 [!DNL Stock] 和Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>使用Adobe在现实世界中可视化海报设计 [!DNL Stock] 和Photoshop(PDF)</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用Adobe在现实世界中可视化海报设计 [!DNL Stock] 和Photoshop(PDF)</strong></a>
       </div>
       <em>在现实生活环境中展示您的设计，更好地了解设计在世界上的呈现效果</em>
       <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

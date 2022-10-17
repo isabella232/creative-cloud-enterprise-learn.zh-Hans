@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Adobe3D和VR
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud英雄图像](../assets/Dimenio.jpg)
 
-使用高质量的模型、素材和光源，更快3D创建引人入胜的内容。 [!DNL Dimension] 使您能够轻松构建品牌可视化、插图、产品模型、包装设计和其他创意作品。
-
-## 单击以查看Adobe3D和VR教程
+使用高质量的模型、素材和光源，更快3D创建引人入胜的内容。 [!DNL Dimension] 使您能够轻松构建品牌可视化、插图、产品模型、包装设计和其他创意作品。 选择图像以查看教程。
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ ht-degree: 0%
     <em>当您想了解您的产品在现实世界中的外观时，请Adobe [!DNL Dimension] 是您的首选应用程序</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="掌握CGI中3D光照的技巧与技术" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -63,6 +59,8 @@ ht-degree: 0%
     <em>了解3D光照、如何创建不同的光照条件来彻底改变计算机生成的场景，以及对象在其中的呈现方式</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="通过3D渲染和合成创建逼真的虚拟摄影" src="assets/Photorealistic_TOC.png" />
@@ -81,6 +79,16 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>使用 [!DNL Dimension] 和Adobe [!DNL Stock]</strong></a>
     </div>
     <em>在中自定义和标记3D模型 [!DNL Dimension] 使用材质、环境属性、光照和摄影，为任何设计项目创建写实的图像</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>

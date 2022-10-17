@@ -4,7 +4,7 @@ description: Tutorials，可帮助您及时了解AdobeDVA产品
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud英雄图像](../assets/CCEbanner-DVA.png)
 
-借助用于视频编辑、动态图形、视觉效果、动画等的Adobe软件和应用程序，让您的想法变为现实。
-
-## 单击以查看Adobe视频教程
+借助用于视频编辑、动态图形、视觉效果、动画等的Adobe软件和应用程序，让您的想法变为现实。 选择图像以查看教程。
 
 <table>
 <tr>
