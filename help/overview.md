@@ -1,21 +1,21 @@
 ---
-title: 教程
-description: 欢迎使用企业Creative Cloud学习中心
+title: Creative Cloud企业Tutorials
+description: 欢迎使用Creative Cloud企业学习中心
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud企业Tutorials
+# Creative Cloud企业版教程
 
 ![Creative Cloud英雄图像](assets/hero_cce.jpg)
 
-欢迎使用Creative Cloud企业学习中心。 您将发现各种侧重于企业版Creative Cloud的学习体验。 我们的教程、网络研讨会和使用案例旨在帮助初学者和管理员快速了解企业产品的Creative Cloud。
+欢迎使用Creative Cloud企业学习中心。 您可以在此处找到各种侧重于企业版Creative Cloud的学习体验。 我们的教程、网络研讨会和使用案例旨在帮助初学者和管理员快速了解企业产品的Creative Cloud。
 
 ## 浏览主题
 
@@ -42,18 +42,6 @@ ht-degree: 10%
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>设计、原型创建和共享用户体验</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe3D和VR" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ ht-degree: 10%
     <em>创建用于品牌、产品拍摄和包装设计的逼真3D图像</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe视频" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ ht-degree: 10%
    <a href="dva/overview-dva.md"><strong>Adobe视频</strong></a>
     </div>
     <em>借助用于视频编辑、动态图形、视觉效果、动画等的Adobe软件和应用程序，让您的想法变为现实</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>设计、原型创建和共享用户体验</em>
     <br>
   </td>
   <td>

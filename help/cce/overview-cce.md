@@ -4,7 +4,7 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud英雄图像](../assets/CCEbanner.png)
 
 作为企业创意人员，您必须与分布式团队协作，建立可扩展的流程，并遵守企业系统和准则。 这些教程可帮助您从企业角度Creative Cloud学习新的功能。
-
 
 ## 单击以查看产品教程（按字母顺序列出）
 
@@ -316,11 +315,11 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="驯服型焦虑" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>驯服型焦虑(PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>驯服型焦虑(PDF)</strong></a>
     </div>
     <em>了解如何在Creative Cloud中访问和使用20,000多种专业设计的字体</em>
     <br>

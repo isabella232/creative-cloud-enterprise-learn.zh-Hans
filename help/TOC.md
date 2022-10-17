@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Creative Cloud企业版教程 {#cce-learning-hub}
 
 + [概述](overview.md)
-+ CCE {#cceoverview}
++ 适用于企业的 Creative Cloud {#cceoverview}
    + [概述](cce/overview-cce.md)
    + 教程 {#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用CC Libraries改进CC工作流程](cce/cc-workflows-cc-libraries.md)
-      + [驯服型焦虑](cce/Taming-font-anxiety.md)
+      + [驯服型焦虑](cce/taming-type-anxiety.md)
       + [创建Creative Cloud团队库](cce/ccteamlibraries.md)
       + [与团队版Creative Cloud库共享品牌资源](cce/sharecclibraries.md)
       + [创建独特的Adobe [!DNL Stock] 和Photoshop for iPad](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [解码图形格式的字母汤](cce/alphabetsoup.md)
       + [尝试在iPad和iPhone上Fresco您的手](cce/frescoworkshop.md)
    + 快速参考指南 {#ccerefguides}
-   + [产品列表](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [CCE参考线](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
    + 教程 {#stocktutorials}
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD](stock/loadingscreen.md)
       + [自定义Adobe [!DNL Stock] 展现专业水准的演示文稿模板](stock/presentationtemplate.md)
       + [自定义Adobe中的颜色 [!DNL Stock] 矢量插图](stock/customizecolors.md)
-+ 3D和VR {#3doverview}
++ Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
    + 教程 {#3dtutorials}
       + [掌握CGI中3D光照的技巧与技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ 视频 {#videooverview}
++ Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
    + 教程 {#videotutorials}
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
-   + 快速参考指南 {#stockrefguides}
-      + [Stock参考线](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + 快速参考指南 {#videorefguides}
+      + [视频参考线](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [概述](xd/overview-xd.md)
    + 教程 {#xdtutorials}
    + [使用 [!UICONTROL 组件] 在Adobe XD](xd/components.md)
