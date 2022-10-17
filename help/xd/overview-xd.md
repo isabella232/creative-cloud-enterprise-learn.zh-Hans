@@ -4,9 +4,9 @@ description: Tutorials可帮助您快速了解Adobe XD
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XD是一款用户体验设计和原型构建工具，可用于设计网站
     <em>Adobe XD提供了一些出色的交互式设计工具，可与现有的工作流程配合使用，让您能够将交互式设计构想提升到新的水平</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="使用XD设计移动Web体验" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XD是一款用户体验设计和原型构建工具，可用于设计网站
     <em>使用Adobe XD详细了解Russell Brown MAX Madness移动Web画廊的设计过程</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="使用Adobe XD为移动Web体验构建原型" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XD是一款用户体验设计和原型构建工具，可用于设计网站
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAX Madness with Adobe XD幕后花絮(PDF)</strong></a>
     </div>
     <em>提供优化的移动Web体验能够真正引起用户的共鸣</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -4,9 +4,9 @@ description: Tutorials，帮助您快速了解Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ ht-degree: 0%
     <em>借助精美的插图，为任何项目添加美感。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将颜色与项目的调色板匹配</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="使用Adobe为静止图像添加动态 [!DNL Stock] 和Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ ht-degree: 0%
       <em>将两个不同的图像组合在一起，为您的设计项目创建全新的场景。 Adobe [!DNL Stock] Adobe Photoshop让一切变得简单</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="使用Photoshop CC创建万圣节电影院并创建Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ ht-degree: 0%
       <em>使用Adobe Photoshop合成视频、插图和照片，创造电影效果</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="让您的数据具有Adobe [!DNL Stock] 和Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ ht-degree: 0%
       <em>按照这些步骤，以逼真的方式展示您的Adobe [!DNL Stock] 使用Adobe Photoshop的模板</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="在Adobe中发现令人惊叹的细节 [!DNL Stock] 图像与Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ ht-degree: 0%
       <em>在移动设备上探索Lightroom的强大功能，让您的图像发挥出最佳效果</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="使用Adobe在现实世界中可视化海报设计 [!DNL Stock] 和Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
