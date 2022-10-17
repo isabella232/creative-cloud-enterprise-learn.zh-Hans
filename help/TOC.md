@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 9%
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [解码图形格式的字母汤](cce/alphabetsoup.md)
       + [尝试在iPad和iPhone上Fresco您的手](cce/frescoworkshop.md)
    + 快速参考指南 {#ccerefguides}
-   + [CCE参考线](quick-reference/overview-ref.md)
+      + [CCE参考线](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
    + 教程 {#stocktutorials}
