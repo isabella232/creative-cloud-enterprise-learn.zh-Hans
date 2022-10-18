@@ -4,9 +4,9 @@ description: 了解Adobe Acrobat中可帮助简化创意工作流程的关键工
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: cd46d5d1011d9a7613e8a78c3e89f75bf34d8beb
+source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,17 @@ ht-degree: 0%
 
 作为内容创建者，您可能要生成PDF，然后在Acrobat中定期查看这些PDF文件。 但是，Acrobat还包括许多有助于简化典型创意工作流程的工具。
 
-**选择以下图像以下载适用于内容创建者的Acrobat(PDF)。**
-
-[![Acrobat教程图像](assets/AcrobatforContentCreators_400.jpg)](assets/AcrobatforContentCreators.pdf)
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
+      <img alt="适用于内容创作者的Acrobat" src="assets/AcrobatforContentCreators_400.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>适用于内容创建者的Acrobat(PDF)</strong></a>
+    </div>
+    <em>了解有助于简化创意工作流程的Acrobat工具</em>
+    <br>
+  </td>
+</tr>
+</table>
