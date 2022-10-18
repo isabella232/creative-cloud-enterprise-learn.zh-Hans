@@ -4,9 +4,9 @@ description: 了解Creative Cloud库如何使设计元素保持在一起，从�
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 了解Creative Cloud库如何使设计元素保持统一，通过此实操教程确保设计人员和团队项目的一致性。
 
-**选择下面的图像以下载使用CC Libraries改善的CC工作流程(PDF)。**
+选择以下图像可查看或下载此PDF教程。
 
-[![CC Libraries教程图像](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![教程的第一页图像](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
