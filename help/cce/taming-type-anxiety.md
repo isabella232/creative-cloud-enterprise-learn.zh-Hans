@@ -4,7 +4,7 @@ description: 了解如何在Creative Cloud中访问和使用20,000多种专业�
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Adobe Creative Cloud订阅的许多好处之一是可以免费访问Adobe Fonts�
 
 选择以下图像可查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
+[![教程的第一页图像](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}

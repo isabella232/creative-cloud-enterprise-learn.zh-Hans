@@ -4,7 +4,7 @@ description: Tutorials，可帮助您及时了解AdobeDVA产品
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="video-review-frame-io.md">
-      <img alt="使用Frame-io进行视频审阅" src="assets/Videoreviewwithframe.jpg" />
+      <img alt="使用Frame-io进行视频审阅" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
    <a href="video-review-frame-io.md"><strong>使用Frame.io进行视频审阅(PDF)</strong></a>
