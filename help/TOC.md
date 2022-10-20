@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
    + 教程 {#stocktutorials}
+      + [令人赞叹的数字资产](stock/stunning-digital-assets.md)
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
       + [向Adobe添加手绘美学 [!DNL Stock] 图像](stock/handdrawn.md)
       + [使用蒙版和动画为排版添加风格](stock/flairtypography.md)
