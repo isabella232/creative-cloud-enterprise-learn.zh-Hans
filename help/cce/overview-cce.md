@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -141,10 +141,10 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="使用CC Libraries改进CC工作流程" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="使用CC Libraries改进CC工作流程(PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>使用CC Libraries改进CC工作流程</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>使用CC Libraries改进CC工作流程(PDF)</strong></a>
     </div>
     <em>了解Creative Cloud库如何使设计元素保持在一起，从而确保设计人员和团队的项目一致性</em>
     <br>
@@ -316,7 +316,7 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="驯服型焦虑" src="assets/TamingTypeAnxiety.png" />
+      <img alt="驯服型焦虑(PDF)" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>驯服型焦虑(PDF)</strong></a>

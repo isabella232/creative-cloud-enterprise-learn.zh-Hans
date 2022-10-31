@@ -4,9 +4,9 @@ description: Tutorials，帮助您快速了解Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="令人赞叹的数字资产" src="assets/Stunningdigitalassets.png" />
+         <img alt="令人赞叹的数字资产(PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>令人赞叹的数字资产</strong></a>
+      <a href="stunning-digital-assets.md"><strong>令人赞叹的数字资产(PDF)</strong></a>
       </div>
       <em>通过这个实际操作教程，了解如何将Adobe Stock与CC Libraries集成，为打印和屏幕创建一致、专业的设计结果</em>
       <br>
