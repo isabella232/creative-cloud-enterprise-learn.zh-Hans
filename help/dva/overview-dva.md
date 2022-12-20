@@ -4,9 +4,9 @@ description: Tutorials，可帮助您及时了解AdobeDVA产品
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
       <img alt="使用Frame-io进行视频审阅" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>使用Frame.io进行视频审阅(PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>使用Frame.io进行视频审阅</strong></a>
     </div>
     <em>了解用于Adobe Premiere Pro的Frame.io扩展如何让您集中和共享资源、接收实时注释、跟踪修订以及获得更快的审批 — 所有这些都不需要离开时间轴</em>
     <br>
