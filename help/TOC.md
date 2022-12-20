@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
    + 教程 {#3dtutorials}
+      + [3D设计和渲染](3di/substance-3d-stager.md)
       + [掌握CGI中3D光照的技巧与技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
    + 教程 {#videotutorials}
+      + [专业动态图形模板](dva/motion-graphics-templates.md)
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
    + 快速参考指南 {#videorefguides}
       + [视频参考线](dva/overview-dva-ref.md)
