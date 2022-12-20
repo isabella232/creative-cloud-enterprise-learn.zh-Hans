@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '407'
 ht-degree: 9%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 9%
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用CC Libraries改进CC工作流程](cce/cc-workflows-cc-libraries.md)
       + [驯服型焦虑](cce/taming-type-anxiety.md)
+      + [Adobe Express:引人注目的内容](cce/adobe-express-content-that-stands-out.md)
+      + [协作：创造力的未来](cce/collaboration-the-future-of-creativity.md)
       + [创建Creative Cloud团队库](cce/ccteamlibraries.md)
       + [与团队版Creative Cloud库共享品牌资源](cce/sharecclibraries.md)
       + [创建独特的Adobe [!DNL Stock] 和Photoshop for iPad](cce/compositepsipad.md)

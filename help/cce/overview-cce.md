@@ -4,9 +4,9 @@ description: Tutorials，可帮助您快速了解Creative Cloud企业产品
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express:引人注目的内容" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express:引人注目的内容</strong></a>
+    </div>
+    <em> 利用Adobe Express，在几分钟内创建精美的图形、网页和视频故事</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="在Adobe Spark中创建您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
+    </div>
+    <em>Adobe Spark使您能够轻松定义品牌</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="将幻灯片添加到Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ ht-degree: 0%
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>结识您的新制作艺术家：Adobe Spark Post(PDF)</strong></a>
     </div>
     <em>Adobe Spark会在您创建布局、定义颜色、导入图稿以及排列合成中的元素时学习您的经验</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="协作：创造力的未来" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>协作：创造力的未来</strong></a>
+    </div>
+    <em>Adobe Creative Cloud订阅的众多好处之一是可免费访问Adobe Fonts中超过20,000种由专业人士设计和精选的字体</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="通过Creative Cloud从手写字体到Illustrator" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ ht-degree: 0%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>从Lightroom Web到InDesign(通过Creative Cloud)(PDF)</strong></a>
     </div>
     <em>利用相机文件和库将您的创意带入Creative Cloud最终设计</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
