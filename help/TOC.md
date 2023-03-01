@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [CCE参考线](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
-   + 教程 {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [令人赞叹的数字资产](stock/stunning-digital-assets.md)
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
       + [向Adobe添加手绘美学 [!DNL Stock] 图像](stock/handdrawn.md)
@@ -60,21 +60,21 @@ ht-degree: 9%
       + [自定义Adobe中的颜色 [!DNL Stock] 矢量插图](stock/customizecolors.md)
 + Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
-   + 教程 {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D设计和渲染](3di/substance-3d-stager.md)
       + [掌握CGI中3D光照的技巧与技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
-   + 教程 {#videotutorials}
+   + Tutorials {#videotutorials}
       + [专业动态图形模板](dva/motion-graphics-templates.md)
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
    + 快速参考指南 {#videorefguides}
       + [视频参考线](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概述](xd/overview-xd.md)
-   + 教程 {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [使用 [!UICONTROL 组件] 在Adobe XD](xd/components.md)
 + 部署和管理 {#deploy}
    + [概述](deploy/overview-deploy.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
    + [指定用户许可](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [概述](max2020/overview-max.md)
-   + 教程 {#tutorials}
+   + Tutorials {#tutorials}
       + [概述](max2020/maxtutorials.md)
       + 桌面产品 {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
@@ -95,8 +95,8 @@ ht-degree: 9%
       + 移动应用程序 {#mobile-apps}
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
-         + [iPad上的Illustrator](max2020/illustratoripad.md)
-         + [iPad上的Photoshop](max2020/photoshopipad.md)
+         + [iPad 版 Illustrator](max2020/illustratoripad.md)
+         + [iPad 版 Photoshop](max2020/photoshopipad.md)
       + 集成 {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud 桌面应用程序](max2020/creativeclouddesktopapp.md)
