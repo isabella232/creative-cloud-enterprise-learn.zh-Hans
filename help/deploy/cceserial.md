@@ -4,9 +4,9 @@ description: 了解适用于企业和Acrobat的Creative Cloud的序列号过期�
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -84,13 +84,13 @@ Acrobat和适用于企业的Creative Cloud版应用程序将于过期前60天开
 
 对于后续启动Acrobat的所有尝试，系统会提示最终用户 **立即登录** 然后可以选择创建自己的Adobe ID并进入试用模式。 但是，最终用户创建的任何新Adobe ID都不会与您组织的许可证相关联，并将导致用户产生更多混淆。
 
-![Acrobat登录对话框1](assets/acrobatsignin1.png)
+![对话框1中的Acrobat Sign](assets/acrobatsignin1.png)
 
-![Acrobat登录对话框2](assets/acrobatsignin2.png)
+![对话框2中的Acrobat Sign](assets/acrobatsignin2.png)
 
 ## 如果需要帮助，请联系我们
 
 如果您对使用 [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) 工具或者需要从序列号部署迁移到指定用户的帮助，您有几个选项：
 * 向Adobe企业登记团队发送电子邮件 —  **entonb@adobe.com**
 * 在中打开支持票证 [Admin Console](https://adminconsole.adobe.com/support)
-* 联系您的Adobe客户经理或客户成功经理
+* 联系您的Adobe客户团队
