@@ -7,7 +7,7 @@ exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 2%
 
 在本教程中，您将学习如何：
 * 让您的资源随时可用，让您的项目保持品牌特色
-* 新! 与Adobe XD完全集成
+* 新增！ 与Adobe XD完全集成
 
 **提供者：**
 Ashley Dvorin，高级解决方案顾问（数字媒体）

@@ -4,9 +4,10 @@ description: 动态图形模板(.mogrt)是一种协作且高效的方法，用�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11642.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 选择以下图像可查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target=&quot;blank&quot;}
+[![教程的第一页图像](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

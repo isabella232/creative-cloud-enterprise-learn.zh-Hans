@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Rush]"'
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] 是第一款使创建和共享在线内容比以往更轻松的一体化跨设备视频编辑应用程序
 role: User
 level: Beginner, Intermediate

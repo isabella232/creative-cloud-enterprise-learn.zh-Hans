@@ -3,7 +3,8 @@ title: 视频快速参考指南
 description: 可帮助您快速了解AdobeDVA产品的快速参考指南
 role: User
 level: Beginner, Intermediate
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%

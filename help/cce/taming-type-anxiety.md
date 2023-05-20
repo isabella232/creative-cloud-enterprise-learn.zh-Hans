@@ -7,7 +7,7 @@ thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 选择以下图像可查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target=&quot;blank&quot;}
+[![教程的第一页图像](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

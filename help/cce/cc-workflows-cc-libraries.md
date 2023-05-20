@@ -7,7 +7,7 @@ thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
 source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 选择以下图像可查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![教程的第一页图像](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}

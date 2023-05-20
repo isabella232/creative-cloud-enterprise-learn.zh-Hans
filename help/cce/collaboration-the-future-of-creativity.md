@@ -4,9 +4,10 @@ description: 了解Adobe Creative Cloud订阅的许多额外好处，您可以�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11640.jpg
-source-git-commit: 9c294d0754bb6aa1489c5b5761d4522ecf0ad26a
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Adobe Creative Cloud订阅的许多好处之一是可以免费访问Adobe Fonts�
 
 选择以下图像可查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target=&quot;blank&quot;}
+[![教程的第一页图像](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

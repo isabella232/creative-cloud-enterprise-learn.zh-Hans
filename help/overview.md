@@ -7,7 +7,7 @@ exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 9%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>设计、原型创建和共享用户体验</em>
+    <em>设计和分享用户体验并为其创建原型</em>
     <br>
   </td>
   <td>

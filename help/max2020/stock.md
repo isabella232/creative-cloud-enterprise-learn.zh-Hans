@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] “适用于企业”使创意团队能够访问超过2亿的图像、视频、模板、插图、音频文件和3D资源
 role: User
 level: Beginner, Intermediate

@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 27%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 6%
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>矢量图形和插图</em>
+    <em>矢量图和插图</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ ht-degree: 6%
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>随时随地创建和共享在线视频</em>
+    <em>随时随地创建和分享在线视频</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ ht-degree: 6%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>设计、原型创建和共享用户体验</em>
+    <em>设计和分享用户体验并为其创建原型</em>
     <br>
   </td>
   <td>
@@ -129,29 +129,29 @@ ht-degree: 6%
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>重新发现随处绘制和绘画的乐趣</em>
+    <em>重拾随时随地绘画和绘图的乐趣</em>
     <br>
   </td>
   <td>
     <a href="illustratoripad.md">
-      <img alt="iPad上的Illustrator" src="../assets/AIoniPad.jpg" />
+      <img alt="iPad 版 Illustrator" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>iPad上的Illustrator</strong></a>
+    <a href="illustratoripad.md"><strong>iPad 版 Illustrator</strong></a>
     </div>
-    <em>矢量图形和插图</em>
+    <em>矢量图和插图</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="iPad上的Photoshop" src="../assets/PSoniPad.jpg" />
+      <img alt="iPad 版 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>iPad上的Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>iPad 版 Photoshop</strong></a>
     </div>
-    <em>在桌面和iPad上编辑、合成和创建精美的图像、图形和图稿</em>
+    <em>在桌面端和 iPad 上编辑、合成和创建精美的图像、图形和艺术作品</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ ht-degree: 6%
       <img alt="Creative Cloud 桌面应用程序" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud桌面应用程序</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 桌面应用程序</strong></a>
     </div>
     <em>Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！</em>
     <br>

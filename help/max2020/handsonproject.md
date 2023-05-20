@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Patti Sokol，首席解决方案顾问（数字媒体）
 
 **单击图像以下载学习设计到打印PDF**
 
-[![了解打印设计](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![了解设计如何打印](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **提供者：**
 Patti Sokol，首席解决方案顾问（数字媒体）

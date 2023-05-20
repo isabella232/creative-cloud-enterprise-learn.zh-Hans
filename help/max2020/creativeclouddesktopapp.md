@@ -7,7 +7,7 @@ exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -57,7 +57,7 @@ Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的�
 * 管理和共享资源
 * 访问Adobe Fonts
 * 发现教程
-* 在Behance上共享您的作品
+* 在 Behance 上共享您的作品。
 
 **提供者：**
 Patti Sokol，首席解决方案顾问（数字媒体）
