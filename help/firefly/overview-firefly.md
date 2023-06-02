@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
+source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## 看看你能用Adobe萤火
 
->[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
 <br> 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## 了解有关Adobe萤火虫的更多信息
 
