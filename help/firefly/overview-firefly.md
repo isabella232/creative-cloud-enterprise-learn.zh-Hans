@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: e6f761def0a06f38af529baf4e6ea1fe56291050
+source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,13 @@ ht-degree: 0%
 
 萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
 
+<br> 
+
+## 看看你能用Adobe萤火
+
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
+
+<br> 
 
 ## 了解有关Adobe萤火虫的更多信息
 
