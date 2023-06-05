@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '470'
+ht-degree: 10%
 
 ---
 
@@ -31,6 +31,26 @@ ht-degree: 11%
       + [尝试在iPad和iPhone上Fresco您的手](cce/frescoworkshop.md)
    + 快速参考指南 {#ccerefguides}
       + [CCE参考线](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [概述](express/overview-express.md)
+   + 教程 {#expresstutorials}
+      + [开始使用Adobe Express](express/get-started.md)
+      + [Adobe Express初学者](express/adobe-express-beginners.md)
+      + [快速获取灵感](express/get-inspiration.md)
+      + [创建模板](express/create-templates.md)
+      + [添加设计资源](express/add-design-assets.md)
+      + [编组对象](express/group-objects.md)
+      + [选择和移动图层](express/layers.md)
+      + [创建多个页面](express/multiple-pages.md)
+      + [撤消和重做](express/undo-redo.md)
+      + [使用CC Libraries](express/cc-libraries.md)
+      + [应用您的品牌](express/brand.md)
+      + [Google Drive集成](express/google-drive.md)
+      + [删除背景](express/remove-background.md)
+      + [优化木刻](express/refine-cutout.md)
+      + [使用文本效果](express/text-effects.md)
+      + [使用图像效果](express/image-effects.md)
+      + [创建曲线文本](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}

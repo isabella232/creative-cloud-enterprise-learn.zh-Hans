@@ -4,9 +4,9 @@ description: 欢迎使用Creative Cloud企业学习中心
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 12%
 
 ---
@@ -32,6 +32,26 @@ ht-degree: 12%
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>简单易用的创意工具，无需经验</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe萤火虫" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe萤火虫</strong></a>
+    </div>
+    <em>新一代创造性AI模型即将推出Adobe产品</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ ht-degree: 12%
     <em>高质量的数字图像、插图、视频、音频、模板等</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe3D和VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ ht-degree: 12%
     <em>创建用于品牌、产品拍摄和包装设计的逼真3D图像</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe视频" src="assets/CCEbanner-DVA.png" />
