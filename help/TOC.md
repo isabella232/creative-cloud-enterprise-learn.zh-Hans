@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '476'
 ht-degree: 10%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 10%
    + 教程 {#expresstutorials}
       + [开始使用Adobe Express](express/get-started.md)
       + [Adobe Express初学者](express/adobe-express-beginners.md)
+      + [安排社交帖子](express/schedule.md)
+      + [邀请项目协作者](express/collaborate.md)
       + [快速获取灵感](express/get-inspiration.md)
       + [创建模板](express/create-templates.md)
       + [添加设计资源](express/add-design-assets.md)
