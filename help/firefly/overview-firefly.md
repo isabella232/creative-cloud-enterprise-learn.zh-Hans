@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
+source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![萤火虫英雄图像](../assets/firefly.png)
 
-萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
+萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
 
 <br> 
 
@@ -33,9 +33,9 @@ ht-degree: 0%
          <img alt="Adobe萤火虫(Beta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe萤火虫(Beta)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly（测试版）</strong></a>
       </div>
-      <em>加入Adobe萤火虫测试版计划。</em>
+      <em>加入Adobe Firefly测试版计划。</em>
       <br>
   </td>
   <td>
@@ -49,9 +49,9 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="尝试Adobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="间隔条" src="../assets/Whitespacer.png" />
