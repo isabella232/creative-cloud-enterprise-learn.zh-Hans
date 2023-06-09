@@ -3,16 +3,16 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] 概述
 
-![萤火虫英雄图像](../assets/firefly.png)
+![Firefly英雄图像](../assets/firefly.png)
 
 萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
          <img alt="Adobe萤火虫(Beta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly（测试版）</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe萤火虫(Beta)</strong></a>
       </div>
       <em>加入Adobe Firefly测试版计划。</em>
       <br>
@@ -52,6 +52,11 @@ ht-degree: 0%
       <a href="webinar-experimenting.md">
          <img alt="尝试Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>尝试Firefly网络研讨会</strong></a>
+      </div>
+      <em>加入Howard Pinsky的行列，因为他将在本网络研讨会深入了解Firefly测试版</em>
+      <br>
   </td>
   <td>
     <img alt="间隔条" src="../assets/Whitespacer.png" />
