@@ -3,18 +3,18 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] 概述
 
-![Firefly英雄图像](../assets/firefly.png)
+![萤火虫英雄图像](../assets/firefly.png)
 
-萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
+Firefly是一类新的创意AI模型，即将推出Adobe产品，最初侧重于图像和文本效果生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
 
 <br> 
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## 了解有关Adobe萤火虫的更多信息
+## 了解有关Adobe Firefly
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ ht-degree: 0%
       <div>
       <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe萤火虫(Beta)</strong></a>
       </div>
-      <em>加入Adobe Firefly测试版计划。</em>
+      <em>加入Adobe萤火虫测试版计划。</em>
       <br>
   </td>
   <td>
@@ -59,9 +59,14 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Photoshop中的生成型填充" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Photoshop中的生成型填充</strong></a>
+      </div>
+      <em>了解如何使用由Adobe Firefly提供支持的生成填充</em>
+      <br>
   </td>
 </tr>
 </table>
