@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
+source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 10%
       + [开始使用Adobe Express](express/get-started.md)
       + [Adobe Express初学者](express/adobe-express-beginners.md)
       + [使用Firefly创建社交海报](express/create-social-posters.md)
+      + [创建网络研讨会海报，其中包含Firefly](express/create-webinar-poster.md)
       + [安排社交帖子](express/schedule.md)
       + [邀请项目协作者](express/collaborate.md)
       + [快速获取灵感](express/get-inspiration.md)
