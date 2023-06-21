@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看重点介绍企业版Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 30be3c5c619e689bd4078ad53019fbc287e712d4
+source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 10%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
-      + [Photoshop中的生成型填充](firefly/generative-fill.md)
+      + [横幅广告变体 [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [生成式填充 [!DNL Photoshop]](firefly/generative-fill.md)
    + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
