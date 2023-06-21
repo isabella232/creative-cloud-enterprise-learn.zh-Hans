@@ -4,9 +4,9 @@ description: 快速了解Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
+source-git-commit: 0e2af14d75ceb0468fecb88ce0e76f2c9d4c9d92
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -51,12 +51,12 @@ Adobe Express是一种简单易用的创意工具，无需经验。
   </td>
 </tr>
 <tr>
-  <td>
+ <td>
       <a href="schedule.md">
          <img alt="安排社交帖子" src="assets/schedule.png" />
       </a>
   </td>
- <td>
+   <td>
    <a href="collaborate.md">
       <img alt="邀请项目协作者" src="assets/collaborate.png" />
    </a>
@@ -95,12 +95,12 @@ Adobe Express是一种简单易用的创意工具，无需经验。
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="undo-redo.md">
          <img alt="撤消和重做" src="assets/undo-redo.png" />
       </a>
-  </td>
- <td>
+   </td>
+  <td>
       <a href="cc-libraries.md">
          <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
       </a>
@@ -116,12 +116,13 @@ Adobe Express是一种简单易用的创意工具，无需经验。
       </a>
   </td>
 </tr>
-  <td>
+<tr>
+   <td>
       <a href="remove-background.md">
          <img alt="删除背景" src="assets/background.png" />
       </a>
   </td>
-  <td>
+   <td>
       <a href="refine-cutout.md">
          <img alt="优化木刻" src="assets/cutouts.png" />
       </a>
@@ -138,11 +139,10 @@ Adobe Express是一种简单易用的创意工具，无需经验。
   </td>
 </tr>
 <tr>
-
-<td>
-      <a href="create-curved-text.md">
-         <img alt="创建曲线文本" src="assets/curved-text.png" />
-      </a>
+  <td>
+   <a href="create-curved-text.md">
+      <img alt="创建曲线文本" src="assets/curved-text.png" />
+   </a>
   </td>
   <td>
   <td>
