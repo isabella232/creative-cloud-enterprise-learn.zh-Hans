@@ -4,18 +4,18 @@ description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] 概述
 
-![Firefly英雄图像](../assets/firefly.png)
+![萤火虫英雄图像](../assets/firefly.png)
 
-萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
+萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
 
 <br> 
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Photoshop中的生成型填充" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ ht-degree: 0%
       </a>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="文本效果" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="间隔条" src="../assets/Whitespacer.png" />
