@@ -3,29 +3,30 @@ title: Adobe [!DNL Firefly] 概述
 description: 快速了解Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] 概述
 
-![萤火虫英雄图像](../assets/firefly.png)
+![Firefly英雄图像](../assets/firefly.png)
 
-萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
+Firefly是一类新的创意AI模型，即将推出Adobe产品，最初侧重于图像和文本效果生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
 
 <br> 
 
-## 看看你能用Adobe Firefly
+## 看看你能用Adobe萤火
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## 了解有关Adobe萤火虫的更多信息
+## 了解有关Adobe Firefly
 
 <table style="table-layout:fixed">
 <tr>
@@ -72,9 +73,9 @@ ht-degree: 0%
       </a>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Illustrator中的生成式重新着色" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>
