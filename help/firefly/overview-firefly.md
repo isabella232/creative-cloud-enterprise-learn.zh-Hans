@@ -5,9 +5,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ![Firefly英雄图像](../assets/firefly.png)
 
-Firefly是一类新的创意AI模型，即将推出Adobe产品，最初侧重于图像和文本效果生成。 Firefly提供了新方式来创意、创建和沟通，同时显著改善了创意工作流程。
+萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
 
 <br> 
 
@@ -58,10 +58,15 @@ Firefly是一类新的创意AI模型，即将推出Adobe产品，最初侧重于
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="overview-of-firefly.md">
+         <img alt="Adobe Firefly概述" src="assets/firefly-overview.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Photoshop中的生成型填充" src="assets/generative-fill.png" />
       </a>
-  </td>
+   </td>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Photoshop中的横幅广告变体" src="assets/banner-ad-variations.png" />
@@ -72,10 +77,27 @@ Firefly是一类新的创意AI模型，即将推出Adobe产品，最初侧重于
          <img alt="文本效果" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
       <a href="generative-recolor.md">
          <img alt="Illustrator中的生成式重新着色" src="assets/firefly-recolor.png" />
       </a>
+  </td>
+<td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
