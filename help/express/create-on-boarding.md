@@ -1,11 +1,11 @@
 ---
 title: 通过Firefly创建招聘和入门培训内容
-description: 了解如何为员工招聘和入门培训内容创建独特的图形
+description: 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为员工招聘和入门培训内容创建独特的图形
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---
