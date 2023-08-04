@@ -1,10 +1,11 @@
 ---
 title: MAX 2020Tutorials
 description: 这些教程将帮助您从企业角度了解Creative Cloud2021版的新增功能
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 27%
@@ -13,11 +14,11 @@ ht-degree: 27%
 
 # 教程
 
-![Max 2020 Hero Image](../assets/MAX.jpg)
+![Max 2020主页横幅](../assets/MAX.jpg)
 
-作为企业创意人员，您需要与分布式团队协作，建立可扩展的流程，并遵守企业系统和准则。 这些教程将帮助您从企业角度了解Creative Cloud2021版的新增功能。
+作为企业创意人员，您需要与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程将帮助您从企业角度了解Creative Cloud2021版的新增功能。
 
-## Tutorials（按桌面产品）
+## 按桌面产品列出的Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -38,7 +39,7 @@ ht-degree: 27%
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>创建用于品牌、产品拍摄和包装设计的逼真3D图像</em>
+    <em>为品牌塑造、产品图片和包装设计创建逼真的3D图像</em>
     <br>
   </td>
   <td>
@@ -60,7 +61,7 @@ ht-degree: 27%
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>针对印刷和数字出版的页面设计和版面</em>
+    <em>用于印刷和数字出版的页面设计和版面</em>
     <br>
   </td>
   <td>
@@ -70,7 +71,7 @@ ht-degree: 27%
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>在桌面上编辑、合成和创建精美的图像、图形和图稿</em>
+    <em>在桌面上编辑、合成和创建精美的图像、图形和艺术作品</em>
     <br>
   </td>
   <td>
@@ -96,19 +97,19 @@ ht-degree: 27%
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="间隔物" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="间隔物" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials（按移动应用程序）
+### 按移动应用程序列出的Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -119,7 +120,7 @@ ht-degree: 27%
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>将任意图像转换为颜色主题、矢量图形、画笔等</em>
+    <em>将任何图像转换为颜色主题、矢量图形、画笔等</em>
     <br>
   </td>
   <td>
@@ -155,19 +156,19 @@ ht-degree: 27%
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔物" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔物" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials（按集成）
+### 按集成划分的Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -188,7 +189,7 @@ ht-degree: 27%
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 桌面应用程序</strong></a>
     </div>
-    <em>Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！</em>
+    <em>Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！</em>
     <br>
   </td>
   <td>
@@ -198,7 +199,7 @@ ht-degree: 27%
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>让您的资源随时可用，让您的项目保持品牌特色</em>
+    <em>让您的资源触手可及，项目符合品牌形象</em>
     <br>
   </td>
 </tr>
@@ -210,7 +211,7 @@ ht-degree: 27%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>精良的InDesign工具与自定义自动化</em>
+    <em>精密的InDesign工具搭配定制的自动化功能</em>
     <br>
   </td>
  <td>
@@ -224,34 +225,34 @@ ht-degree: 27%
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="间隔物" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### 动手项目：创建您自己的蒙版
+### 实际操作项目：创建您自己的面罩
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="创建您自己的蒙版" src="../assets/faceMaskSplash.jpg" />
+      <img alt="创建您自己的人脸蒙版" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>创建您自己的蒙版</strong></a>
+    <a href="handsonproject.md"><strong>创建您自己的人脸蒙版</strong></a>
     </div>
-    <em>借助“Adobe设计到打印”增效工具，您可以在数百个Zazzle产品上使设计可视化，并直接发布到其在线市场</em>
+    <em>借助AdobeDesign to Print插件，您可以在数百种Zazzle产品上将设计可视化，并直接发布到其在线市场</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

@@ -1,10 +1,11 @@
 ---
 title: CC Libraries
-description: 让您的资源随时可用，让您的项目保持品牌特色
+description: 让您的资源触手可及，项目符合品牌形象
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
@@ -13,9 +14,9 @@ ht-degree: 3%
 
 # CC Libraries
 
-![英雄图像教程](../assets/CCLibs.jpg)
+![教程主图](../assets/CCLibs.jpg)
 
-让您的资源随时可用，让您的项目始终保持品牌特色。
+让您的资源和项目保持随手可得。
 
 ## 浏览产品Tutorials
 
@@ -23,66 +24,66 @@ ht-degree: 3%
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="创建CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="创建CC库" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>创建CC Libraries</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>创建CC库</strong></a>
     </div>
-    <em>借助Adobe Creative Cloud Libraries，您可以在喜爱的Creative Cloud应用程序中管理、组织和访问徽标、颜色等</em>
+    <em>使用Adobe Creative Cloud Libraries，您可以管理、整理和访问您喜爱的Creative Cloud应用程序中的徽标、颜色等</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="共享CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="共享CC库" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>共享CC Libraries</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>共享CC库</strong></a>
     </div>
-    <em>更高效地工作、确保创意一致性并轻松与团队保持同步</em>
+    <em>更高效地工作，确保创意一致性，并轻松地与您的团队保持同步</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## 创建CC Libraries(4:38) {#tutorial1}
+## 创建CC Libraries (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-**说明**
-借助Adobe Creative Cloud Libraries，您可以在喜爱的Creative Cloud应用程序中管理、组织和访问徽标、颜色等。
+**描述**
+使用Adobe Creative Cloud Libraries，您可以管理、整理和访问您喜爱的Creative Cloud应用程序中的徽标、颜色等。
 
-在本教程中，您将学习如何：
-* 让您的资源随时可用，让您的项目保持品牌特色
+在本教程中，您将了解如何：
+* 让您的资源触手可及，项目符合品牌形象
 * 新增！ 与Adobe XD完全集成
 
-**提供者：**
+**呈列方式：**
 Ashley Dvorin，高级解决方案顾问（数字媒体）
 
-## 共享CC Libraries(4:14) {#tutorial2}
+## 共享CC Libraries (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-**说明**
-更高效地工作、确保创意一致性并轻松与团队保持同步。
+**描述**
+更高效地工作，确保创意一致性，并轻松地与您的团队保持同步。
 
-在本教程中，您将学习如何：
-* 让您的资源随时可用，让您的项目保持品牌特色
+在本教程中，您将了解如何：
+* 让您的资源触手可及，项目符合品牌形象
 * 直接从您喜爱的应用程序轻松协作处理项目
 
-**提供者：**
+**呈列方式：**
 Ashley Dvorin，高级解决方案顾问（数字媒体）
 
 ![CC Libraries徽标](../assets/cc_appicon_96.png)
 
-**CC Libraries资源**
+**CC库资源**
 
-[学习和支持](https://helpx.adobe.com/creative-cloud/help/libraries.html) 是更多教程、新增功能和社区论坛链接的中心。
+[学习和支持](https://helpx.adobe.com/creative-cloud/help/libraries.html) 是您获取其他教程、新增功能以及指向社区论坛的链接的中心。
 
-**2020年10月版**
+**2020年十月版**
 
-开始使用这些功能（等等！） 从您的Creative Cloud桌面应用程序下载最新更新。
+开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

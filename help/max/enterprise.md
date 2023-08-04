@@ -1,10 +1,11 @@
 ---
 title: 企业管理
-description: 管理Adobe在整个组织中的权利和资源
+description: 管理整个组织的Adobe权利和资源
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 3%
@@ -13,9 +14,9 @@ ht-degree: 3%
 
 # 企业管理
 
-![英雄图像教程](../assets/hero_cce.jpg)
+![教程主图](../assets/hero_cce.jpg)
 
-管理Adobe在整个组织中的权利和资源。
+管理整个组织的Adobe权利和资源。
 
 ## 浏览企业管理Tutorials
 
@@ -28,16 +29,16 @@ ht-degree: 3%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>浏览Adobe Fonts近200个家庭和Adobe Fonts服务的易用性</em>
+    <em>了解Adobe Fonts中的近200个家庭以及Adobe Fonts服务的易用性</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -50,14 +51,14 @@ ht-degree: 3%
 
 **说明：**
 
-浏览Adobe Fonts近200个家庭以及Adobe Fonts服务的易用性。
+了解Adobe Fonts中的近200个家庭以及Adobe Fonts服务的易用性。
 
-在本教程中，您将学习如何：
-* 使用功能强大的浏览界面快速轻松地查找正确的字体
-* 使用原生Creative Cloud集成
-* 在Adobe Admin Console中一个位置管理所有字体
+在本教程中，您将了解如何：
+* 使用强大的浏览界面，快速轻松地找到合适的字体
+* 使用本机Creative Cloud集成节省时间和资金
+* 在Adobe Admin Console中集中管理所有字体
 
-**提供者：**
+**呈列方式：**
 
 Todd Burke，首席解决方案顾问（数字媒体）
 

@@ -1,10 +1,11 @@
 ---
 title: Adobe Firefly概述
-description: 了解可以在Adobe Firefly中创建的内容
+description: 了解您可以在Adobe Firefly中创建的内容
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Firefly概述
 
-了解使用Adobe Firefly可以创建的内容。 了解如何在Adobe Photoshop等Adobe Express和Adobe Creative Cloud应用程序中加速内容创建。 本教程使用 [Photoshop Beta(24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html)的
+了解您可以使用Adobe Firefly创建什么。 了解如何在Adobe Express和Adobe Creative Cloud应用程序(如Adobe Photoshop)中加速内容创建。 本教程使用 [Photoshop Beta版(24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
 
 <br> 
 

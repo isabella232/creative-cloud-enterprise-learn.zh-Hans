@@ -1,10 +1,11 @@
 ---
 title: Creative Cloud 桌面应用程序
-description: Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！
+description: Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%
@@ -13,9 +14,9 @@ ht-degree: 8%
 
 # Creative Cloud 桌面应用程序
 
-![英雄图像教程](../assets/CCDA.jpg)
+![教程主图](../assets/CCDA.jpg)
 
-Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！
+Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！
 
 ## 浏览产品Tutorials
 
@@ -28,16 +29,16 @@ Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的�
     <div>
    <a href="creativeclouddesktopapp.md#tutorial1"><strong>探索CC桌面应用程序：您的Creative Cloud中心</strong></a>
     </div>
-    <em>Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！</em>
+    <em>Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -48,10 +49,10 @@ Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的�
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
-**说明**
-Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的中心！
+**描述**
+Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！
 
-在本教程中，您将学习如何：
+在本教程中，您将了解如何：
 * 启动和更新桌面应用程序
 * 查找移动和Web应用程序
 * 管理和共享资源
@@ -59,5 +60,5 @@ Creative Cloud桌面应用程序是管理CC应用程序、服务和协作等的�
 * 发现教程
 * 在 Behance 上共享您的作品。
 
-**提供者：**
+**呈列方式：**
 Patti Sokol，首席解决方案顾问（数字媒体）

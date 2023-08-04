@@ -1,10 +1,11 @@
 ---
 title: 使用Firefly为博客创建图形内容
 description: 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为博客创建独特的图形内容
+feature: Image Editing
 role: User
 level: Beginner
 jira: KT-13744
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 4%

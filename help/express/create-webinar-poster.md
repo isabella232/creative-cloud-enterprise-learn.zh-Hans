@@ -1,8 +1,9 @@
 ---
 title: 使用Firefly创建网络研讨会海报
 description: 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为虚拟现实活动创建网络研讨会海报
+feature: Image Editing
 level: Beginner
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%

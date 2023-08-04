@@ -1,43 +1,44 @@
 ---
 title: Adobe [!DNL Firefly] 概述
-description: 快速了解Adobe [!DNL Firefly]
+description: 掌握Adobe的最新动态 [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] 概述
 
-![Firefly英雄图像](../assets/firefly.png)
+![Firefly主页横幅](../assets/firefly.png)
 
-萤火虫是新一代有创造力的AI模型，即将推出Adobe产品，最初侧重于图像和文本效果的生成。 萤火虫为创意、创作和交流提供了新方式，同时显著改善了创意工作流程。
+Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重于图像和文本效果的生成。 Firefly提供了构思、创建和沟通的新方法，同时显着改进了创意工作流程。
 
 <br> 
 
-## 看看你能用Adobe萤火
+## 看看您可以使用Adobe Firefly做些什么
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## 了解有关Adobe Firefly
+## 了解有关Adobe Firefly的更多信息
 
 <table style="table-layout:fixed">
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe萤火虫(Beta)" src="assets/firefly-beta.png" />
+         <img alt="Adobe Firefly(Beta)" src="assets/firefly-beta.png" />
       </a>
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="在Photoshop中探索萤火虫" src="assets/firefly-photoshop.png" />
+         <img alt="在Photoshop中探索Firefly" src="assets/firefly-photoshop.png" />
       </a>
   </td>
   <td>
@@ -46,7 +47,7 @@ ht-degree: 0%
       </a>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -64,7 +65,7 @@ ht-degree: 0%
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Photoshop中的生成型填充" src="assets/generative-fill.png" />
+         <img alt="Photoshop中的生成式填充" src="assets/generative-fill.png" />
       </a>
    </td>
    <td>
@@ -85,17 +86,17 @@ ht-degree: 0%
       </a>
   </td>
 <td>
-    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Gray_thumbnail.png" />
+    <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
