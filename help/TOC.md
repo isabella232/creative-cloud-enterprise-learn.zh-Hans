@@ -4,9 +4,10 @@ breadcrumb-title: Creative Cloud 企业版
 user-guide-description: 查看侧重于企业Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 feature-set: Creative Cloud
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 9%
