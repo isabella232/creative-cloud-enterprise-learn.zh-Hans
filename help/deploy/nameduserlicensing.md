@@ -3,8 +3,9 @@ title: 序列号即将过期？ 为何需要指定用户许可
 description: 通过指定Adobe许可(NUL)授予用户产品许可允许IT管理员使用Admin Console轻松部署和管理Adobe工具，并允许最终用户访问世界一流的创意和工作效率应用程序以及AdobeCloud服务，即使整个工作人员都处于远程位置
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
