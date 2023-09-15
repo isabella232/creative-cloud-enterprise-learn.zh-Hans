@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '534'
 ht-degree: 9%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 9%
    + [概述](express/overview-express.md)
    + 教程 {#expresstutorials}
       + [Adobe Express快速入门](express/get-started.md)
+      + [快速启动创意构想](express/jumpstart-ideation.md)
       + [面向初学者的Adobe Express](express/adobe-express-beginners.md)
       + [使用Firefly为营销活动创建传单内容](express/create-local-marketing.md)
       + [通过Firefly创建招聘和入门培训内容](express/create-on-boarding.md)
