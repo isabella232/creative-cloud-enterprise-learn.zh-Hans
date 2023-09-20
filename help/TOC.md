@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '546'
 ht-degree: 9%
 
 ---
@@ -38,32 +38,34 @@ ht-degree: 9%
    + [概述](express/overview-express.md)
    + 操作方法教程 {#expresshowto}
       + [概述](express/overview-express-how-to.md)
-         + [Adobe Express快速入门](express/get-started.md)
-         + [安排社交帖子](express/schedule.md)
-         + [邀请项目协作者](express/collaborate.md)
-         + [快速获取灵感](express/get-inspiration.md)
-         + [创建模板](express/create-templates.md)
-         + [添加设计资源](express/add-design-assets.md)
-         + [编组对象](express/group-objects.md)
-         + [选择和移动图层](express/layers.md)
-         + [创建多个页面](express/multiple-pages.md)
-         + [还原和重做](express/undo-redo.md)
-         + [使用CC库](express/cc-libraries.md)
-         + [应用您的品牌](express/brand.md)
-         + [Google Drive集成](express/google-drive.md)
-         + [移除背景](express/remove-background.md)
-         + [优化抠图](express/refine-cutout.md)
-         + [使用文本效果](express/text-effects.md)
-         + [使用图像效果](express/image-effects.md)
-         + [创建弯曲的文本](express/create-curved-text.md)
-      + 用例教程 {expressusecase}
-         + [快速启动创意构想](express/jumpstart-ideation.md)
-         + [面向初学者的Adobe Express](express/adobe-express-beginners.md)
-         + [使用Firefly为营销活动创建传单内容](express/create-local-marketing.md)
-         + [通过Firefly创建招聘和入门培训内容](express/create-on-boarding.md)
-         + [使用Firefly创建社交海报](express/create-social-posters.md)
-         + [使用Firefly为博客创建图形内容](express/create-blog-graphics.md)
-         + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
+      + [Adobe Express快速入门](express/get-started.md)
+      + [安排社交帖子](express/schedule.md)
+      + [邀请项目协作者](express/collaborate.md)
+      + [快速获取灵感](express/get-inspiration.md)
+      + [创建模板](express/create-templates.md)
+      + [添加设计资源](express/add-design-assets.md)
+      + [编组对象](express/group-objects.md)
+      + [选择和移动图层](express/layers.md)
+      + [创建多个页面](express/multiple-pages.md)
+      + [还原和重做](express/undo-redo.md)
+      + [使用CC库](express/cc-libraries.md)
+      + [应用您的品牌](express/brand.md)
+      + [Google Drive集成](express/google-drive.md)
+      + [移除背景](express/remove-background.md)
+      + [优化抠图](express/refine-cutout.md)
+      + [使用文本效果](express/text-effects.md)
+      + [使用图像效果](express/image-effects.md)
+      + [创建弯曲的文本](express/create-curved-text.md)
+      + 用例教程 {#expressusecase}
+      + [概述](express/overview-express-use-case-tutorials.md)
+      + [使分散的团队能够本地化内容](express/localized-marketing-content.md)
+      + [快速启动创意构想](express/jumpstart-ideation.md)
+      + [面向初学者的Adobe Express](express/adobe-express-beginners.md)
+      + [使用Firefly为营销活动创建传单内容](express/create-local-marketing.md)
+      + [通过Firefly创建招聘和入门培训内容](express/create-on-boarding.md)
+      + [使用Firefly创建社交海报](express/create-social-posters.md)
+      + [使用Firefly为博客创建图形内容](express/create-blog-graphics.md)
+      + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
