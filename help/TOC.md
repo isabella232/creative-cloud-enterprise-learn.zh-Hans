@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '557'
 ht-degree: 9%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 9%
       + [创建弯曲的文本](express/create-curved-text.md)
    + 用例教程 {#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
+      + [创建引人入胜的促销内容](express/compelling-merchandise.md)
       + [使营销团队能够创建多渠道内容](express/multi-channel-marketing-content.md)
       + [使分散的团队能够本地化内容](express/localized-marketing-content.md)
       + [快速启动创意构想](express/jumpstart-ideation.md)
