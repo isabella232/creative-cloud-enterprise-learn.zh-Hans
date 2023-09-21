@@ -3,11 +3,11 @@ title: Adobe [!DNL Express] 用例Tutorials
 description: 掌握Adobe的最新动态 [!DNL Express] 用例
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13995
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="multi-channel-marketing-content.md">
+         <img alt="使营销团队能够创建多渠道内容" src="assets/multi-channel.png" />
+      </a>
+  <td>
       <a href="localized-marketing-content.md">
          <img alt="使分散的团队能够本地化内容" src="assets/marketing-regional-content.png" />
       </a>
@@ -37,13 +41,13 @@ ht-degree: 0%
          <img alt="使用Firefly为营销活动创建传单内容" src="assets/local-marketing.png" />
       </a>
    </td>
-    <td>
+</tr>
+<tr>
+   <td>
       <a href="create-on-boarding.md">
          <img alt="通过Firefly创建招聘和入门培训内容" src="assets/on-boarding.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-social-posters.md">
          <img alt="使用Firefly创建社交海报" src="assets/social-firefly.png" />
@@ -59,10 +63,5 @@ ht-degree: 0%
          <img alt="使用Firefly创建网络研讨会海报" src="assets/webinar-poster.png" />
       </a>
    </td>
-   <td>
-    <img alt="间隔物" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

@@ -3,9 +3,9 @@ title: 利用Firefly为营销活动创建传单内容
 description: 了解如何在全球酒店营销活动中Adobe Express本地化内容，使用Adobe Firefly支持的文本到图像
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13756
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 4%
