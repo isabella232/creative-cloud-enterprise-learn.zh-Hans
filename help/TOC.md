@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '572'
 ht-degree: 9%
 
 ---
@@ -52,10 +52,10 @@ ht-degree: 9%
       + [使用CC库](express/cc-libraries.md)
       + [应用您的品牌](express/brand.md)
       + [Google Drive集成](express/google-drive.md)
-      + [移除背景](express/remove-background.md)
+      + [如何一键移除照片的背景](express/remove-background.md)
       + [优化抠图](express/refine-cutout.md)
       + [使用文本效果](express/text-effects.md)
-      + [使用图像效果](express/image-effects.md)
+      + [如何为照片添加效果和调整](express/image-effects.md)
       + [创建弯曲的文本](express/create-curved-text.md)
    + 用例教程 {#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
