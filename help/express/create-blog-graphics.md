@@ -1,19 +1,20 @@
 ---
-title: 使用Firefly为博客创建图形内容
-description: 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为博客创建独特的图形内容
+title: 轻松开展社交营销活动
+description: 了解如何在Adobe Firefly的支持下使用文本到图像，为Web、博客和社交活动创建独特的图形内容
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13744
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+exl-id: 36758179-0f46-4fea-9ff5-dae7ec3e8a58
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 4%
+source-wordcount: '60'
+ht-degree: 5%
 
 ---
 
-# 使用Firefly为博客创建图形内容
+# 轻松开展社交营销活动
 
-了解如何在Adobe Express中使用“文本到图像”功能(由Adobe Firefly提供支持)为博客创建独特的图形内容。 本教程将使用 [Adobe Express](https://www.adobe.com/express/).
+了解如何在Adobe Firefly的支持下使用文本到图像，为Web、博客和社交活动创建独特的图形内容。 本教程将使用 [Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)

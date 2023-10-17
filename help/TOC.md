@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 9%
@@ -67,12 +67,13 @@ ht-degree: 9%
       + [使用Firefly为营销活动创建传单内容](express/create-local-marketing.md)
       + [通过Firefly创建招聘和入门培训内容](express/create-on-boarding.md)
       + [使用Firefly创建社交海报](express/create-social-posters.md)
-      + [使用Firefly为博客创建图形内容](express/create-blog-graphics.md)
+      + [轻松开展社交营销活动](express/create-blog-graphics.md)
       + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
       + [Adobe Firefly概述](firefly/overview-of-firefly.md)
+      + [提高创意效率](firefly/enable-creative-efficiency.md)
       + [横幅广告变体 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [生成式填充 [!DNL Photoshop]](firefly/generative-fill.md)
       + [文本效果](firefly/text-effects.md)
