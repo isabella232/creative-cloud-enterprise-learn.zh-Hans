@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # 企业教程Creative Cloud
-
-![Creative Cloud主页横幅](../assets/CCEbanner.png)
 
 作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程帮助您从企业角度了解Creative Cloud的新功能。
 

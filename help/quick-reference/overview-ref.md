@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # 企业快速参考指南Creative Cloud
-
-![Creative Cloud主页横幅](../assets/CCEbanner.png)
 
 作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些快速参考指南(PDF)可帮助您了解Creative Cloud的新功能。
 

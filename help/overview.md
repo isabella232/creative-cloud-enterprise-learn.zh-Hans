@@ -5,16 +5,14 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # 企业教程Creative Cloud
-
-![Creative Cloud主页横幅](assets/hero_cce.jpg)
 
 欢迎访问企业学习Creative Cloud中心。 您可以在此处找到大量侧重于企业Creative Cloud的学习体验。 我们的教程、网络研讨会和用例旨在让初学者和管理人员快速了解企业产品Creative Cloud。
 

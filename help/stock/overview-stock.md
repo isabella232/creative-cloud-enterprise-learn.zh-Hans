@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] 教程
-
-![Creative Cloud主页横幅](../assets/Stock.jpg)
 
 创意人员面临着快速提供引人入胜的视觉内容的压力。 Adobe Stock让创意团队每天可以在Creative Cloud应用程序中访问超过3亿张免版税图像、视频、音频文件、模板、插图和3D资源。 无限制访问Adobe Stock标准资源和Creative Cloud专业版。 在stock.adobe.com上浏览最新收藏集。 选择一个图像以查看教程。
 

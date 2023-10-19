@@ -5,16 +5,14 @@ feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '150'
 ht-degree: 8%
 
 ---
 
 # Creative Cloud 桌面应用程序
-
-![教程主图](../assets/CCDA.jpg)
 
 Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！
 

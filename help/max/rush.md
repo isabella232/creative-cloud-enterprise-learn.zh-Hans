@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Rush]”
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] 是第一个一体式、跨设备视频编辑应用程序，可以比以往更轻松地创建和共享在线内容
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
-
-![教程主图](../assets/Rush.jpg)
 
 Premiere [!DNL Rush] 是第一个一体化的、跨设备视频编辑应用程序，可以比以往任何时候都更轻松地创建和共享在线内容。 这一集成的桌面和移动解决方案可自动将您的项目和编辑同步到云，让您随时随地在任何设备上工作。
 

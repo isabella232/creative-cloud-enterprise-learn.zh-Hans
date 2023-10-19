@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # 视频快速参考指南
-
-![Creative Cloud主页横幅](../assets/CCEbanner-DVA.png)
 
 使用适用于视频编辑、动态图形、视觉效果、动画等的Adobe软件和应用程序，让您的想法变为现实。 选择要下载的图像或查看快速参考指南PDF。
 

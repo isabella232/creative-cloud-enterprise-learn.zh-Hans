@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
-
-![教程主图](../assets/Capture.jpg)
 
 Adobe [!DNL Capture] 将手机和平板电脑转变为设计收藏工具。 用户可以创建许多不同类型的资源（图稿的单个数字元素）。   这些资源会自动与其他桌面和移动Adobe应用程序同步。 用户可以将其导入到其创意项目中，或轻松地与协作者共享。
 

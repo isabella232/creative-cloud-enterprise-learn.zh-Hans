@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
-
-![教程主图](../assets/InDesign.jpg)
 
 业界标准的应用程序，用于为印刷和数字出版创建精美的文档。 创建丰富的数字和印刷体验，从电子书和电子杂志，到书籍、报告和白皮书。
 

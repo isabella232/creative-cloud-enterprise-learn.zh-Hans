@@ -5,16 +5,14 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
 
 # iPad 版 Illustrator
-
-![教程主图](../assets/AIoniPad.jpg)
 
 iPad上的Adobe Illustrator是专为触控、Apple Pencil和iPad而重新设计的矢量设计体验。
 

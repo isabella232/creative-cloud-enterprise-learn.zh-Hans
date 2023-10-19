@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
 # Photoshop
-
-![教程主图](../assets/Photoshop.jpg)
 
 Photoshop是世界上最好的图像处理和图形设计软件，让专业人士能够跨设备发挥无限的创造力。 现在，任何人都可以随心所欲地创作出自己想象的任何作品，任何地方都能激发灵感。 想想看，用Photoshop就行了。
 

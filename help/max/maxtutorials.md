@@ -5,16 +5,14 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 27%
 
 ---
 
 # 教程
-
-![Max 2020主页横幅](../assets/MAX.jpg)
 
 作为企业创意人员，您需要与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程将帮助您从企业角度了解Creative Cloud2021版的新增功能。
 

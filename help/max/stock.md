@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Stock]”
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] 通过企业版，创意团队可访问超过2亿张图像、视频、模板、插图、音频文件和3D资源
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
-
-![教程主图](../assets/Stock.jpg)
 
 创意人员面临着快速提供新的、具有视觉吸引力的内容的压力，这些内容将吸引人们的目光。 Adobe [!DNL Stock] 通过企业版，创意团队可以访问超过2亿张图像、视频、模板、插图、音频文件和3D资源 — 所有这些资源都可从Adobe创意应用程序中获得，并且它们每天都在使用。
 

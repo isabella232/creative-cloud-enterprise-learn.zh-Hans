@@ -5,16 +5,14 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat &amp; Sign
-
-![教程主图](../assets/DC.jpg)
 
 借助Adobe Document Cloud(其中包括全球领先的PDF和电子签名解决方案)，您可以将手动文档流程转变为高效的数字流程。 现在，您的团队可以在您喜爱的Microsoft和企业应用程序中，随时随地（跨多个屏幕和设备）快速处理文档、工作流和任务。
 

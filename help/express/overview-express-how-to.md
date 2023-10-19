@@ -6,16 +6,14 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Express] 操作方法教程
-
-![Express主页横幅](../assets/Express.png)
 
 使用由Adobe Firefly提供支持的生成式AI，开始创作令人惊叹的作品。 利用Adobe Express设计传单、TikTok、简历和作品集。
 

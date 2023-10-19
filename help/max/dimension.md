@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Dimension]”
+title: "[!DNL Dimension]"
 description: ”[!DNL Dimension] 便于制作品牌形象效果、插图、产品模型、包装设计和其他创意作品”
 feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
-
-![教程主图](../assets/Dimenio.jpg)
 
 使用高质量的模型、素材和光源，更快地3D创建引人入胜的内容。 [!DNL Dimension] 可以轻松构建品牌可视化效果、插图、产品模型、包装设计和其他创意作品。
 
