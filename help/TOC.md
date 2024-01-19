@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 9%
+source-wordcount: '579'
+ht-degree: 6%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 9%
 # 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
-+ 适用于企业的 Creative Cloud {#cceoverview}
++ 企业Creative Cloud {#cceoverview}
    + [概述](cce/overview-cce.md)
-   + 教程 {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用CC库改进CC工作流](cce/cc-workflows-cc-libraries.md)
       + [驯服型焦虑](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 9%
    + [概述](express/overview-express.md)
    + 操作方法教程 {#expresshowto}
       + [概述](express/overview-express-how-to.md)
-      + [Adobe Express快速入门](express/get-started.md)
+      + [主页上的内容](express/get-started.md)
+      + [快速操作简介](express/quick-actions.md)
+      + [模板简介](express/introduction-templates.md)
       + [安排社交帖子](express/schedule.md)
       + [邀请项目协作者](express/collaborate.md)
       + [快速获取灵感](express/get-inspiration.md)
@@ -71,7 +73,7 @@ ht-degree: 9%
       + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
-   + 教程 {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Adobe Firefly概述](firefly/overview-of-firefly.md)
       + [提高创意效率](firefly/enable-creative-efficiency.md)
       + [横幅广告变体 [!DNL Photoshop]](firefly/web-banner-ad.md)
@@ -82,7 +84,7 @@ ht-degree: 9%
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
-   + 教程 {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [令人惊叹的数字资产](stock/stunning-digital-assets.md)
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
       + [为Adobe添加手绘美学 [!DNL Stock] 图像](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 9%
       + [自定义Adobe中的颜色 [!DNL Stock] 矢量插图](stock/customizecolors.md)
 + Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
-   + 教程 {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D设计和渲染](3di/substance-3d-stager.md)
       + [掌握CGI中3D光照的提示和技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用以下工具自定义和标记3D模型 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
-   + 教程 {#videotutorials}
+   + Tutorials {#videotutorials}
       + [专业的动态图形模板](dva/motion-graphics-templates.md)
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
    + 快速参考指南 {#videorefguides}
       + [视频参考线](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概述](xd/overview-xd.md)
-   + 教程 {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [轻松使用 [!UICONTROL 组件] 在Adobe XD中](xd/components.md)
 + 部署和管理 {#deploy}
    + [概述](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 9%
    + [指定用户许可](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [概述](max/overview-max.md)
-   + 教程 {#tutorials}
+   + Tutorials {#tutorials}
       + [概述](max/maxtutorials.md)
       + 桌面产品 {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
