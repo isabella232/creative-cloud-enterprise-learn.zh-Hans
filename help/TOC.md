@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 6%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 6%
       + [主页上的内容](express/get-started.md)
       + [快速操作简介](express/quick-actions.md)
       + [模板简介](express/introduction-templates.md)
+      + [设置品牌套件](express/brand.md)
+      + [启动项目](express/new-project.md)
+      + [项目的UX](express/workspace.md)
+      + [如何添加文本](express/text-effects.md)
+      + [如何添加图像](express/image-effects.md)
+      + [如何添加Gen AI图像](express/add-gen-ai-image.md)
       + [安排社交帖子](express/schedule.md)
       + [邀请项目协作者](express/collaborate.md)
       + [快速获取灵感](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 6%
       + [创建多个页面](express/multiple-pages.md)
       + [还原和重做](express/undo-redo.md)
       + [使用CC库](express/cc-libraries.md)
-      + [应用您的品牌](express/brand.md)
       + [Google Drive集成](express/google-drive.md)
       + [如何一键移除照片的背景](express/remove-background.md)
       + [优化抠图](express/refine-cutout.md)
-      + [使用文本效果](express/text-effects.md)
-      + [如何为照片添加效果和调整](express/image-effects.md)
       + [创建弯曲的文本](express/create-curved-text.md)
    + 用例教程 {#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 6%
       + [使营销团队能够创建多渠道内容](express/multi-channel-marketing-content.md)
       + [使分散的团队能够本地化内容](express/localized-marketing-content.md)
       + [快速启动创意构想](express/jumpstart-ideation.md)
-      + [面向初学者的Adobe Express](express/adobe-express-beginners.md)
       + [使用Firefly为营销活动创建传单内容](express/create-local-marketing.md)
       + [通过Firefly创建招聘和入门培训内容](express/create-on-boarding.md)
       + [使用Firefly创建社交海报](express/create-social-posters.md)
