@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -68,50 +68,68 @@ ht-degree: 0%
          <img alt="如何添加Gen AI图像" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="如何使用网格" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="如何使用元素" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="使用图层和画板" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="如何协作" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="如何共享和下载" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="如何使用版本历史记录" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="安排社交帖子" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="邀请项目协作者" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="快速获取灵感" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="创建模板" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="添加设计资源" src="assets/design-assets.png" />
-         </a>
- </td>
-  <td>
+
+<td>
          <a href="group-objects.md">
             <img alt="编组对象" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="选择和移动图层" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="创建多个页面" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="还原和重做" src="assets/undo-redo.png" />
@@ -127,19 +145,24 @@ ht-degree: 0%
          <img alt="Google Drive集成" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="移除背景" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="创建弯曲的文本" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>
       <br>
