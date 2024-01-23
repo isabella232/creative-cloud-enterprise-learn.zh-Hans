@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
-ht-degree: 6%
+source-wordcount: '620'
+ht-degree: 5%
 
 ---
 
@@ -54,12 +54,16 @@ ht-degree: 6%
       + [如何协作](express/collaborate.md)
       + [如何共享和下载](express/share.md)
       + [如何使用版本历史记录](express/version-history.md)
-      + [安排社交帖子](express/schedule.md)
+      + [还原和重做](express/undo-redo.md)
       + [快速获取灵感](express/get-inspiration.md)
+      + [动画简介](express/intro-animation.md)
+      + [不同类型的动画](express/different-types-animation.md)
+      + [调整动画设置](express/tweak-animation.md)
+      + [什么是动画时间线？](express/animation-timeline.md)
+      + [安排社交帖子](express/schedule.md)
       + [创建模板](express/create-templates.md)
       + [编组对象](express/group-objects.md)
       + [创建多个页面](express/multiple-pages.md)
-      + [还原和重做](express/undo-redo.md)
       + [使用CC库](express/cc-libraries.md)
       + [Google Drive集成](express/google-drive.md)
       + [如何一键移除照片的背景](express/remove-background.md)
