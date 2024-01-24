@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '643'
 ht-degree: 5%
 
 ---
@@ -60,6 +60,11 @@ ht-degree: 5%
       + [不同类型的动画](express/different-types-animation.md)
       + [调整动画设置](express/tweak-animation.md)
       + [什么是动画时间线？](express/animation-timeline.md)
+      + [如何错开动画](express/stagger-animations.md)
+      + [向时间轴添加部分](express/add-sections-animation.md)
+      + [向动画添加音频](express/audio-animation.md)
+      + [如何调整动画大小](express/resize-animations.md)
+      + [导出动画](express/export-animations.md)
       + [安排社交帖子](express/schedule.md)
       + [创建模板](express/create-templates.md)
       + [编组对象](express/group-objects.md)
