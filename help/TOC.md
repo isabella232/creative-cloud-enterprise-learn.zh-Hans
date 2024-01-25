@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '689'
 ht-degree: 5%
 
 ---
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [向动画添加音频](express/audio-animation.md)
       + [如何调整动画大小](express/resize-animations.md)
       + [导出动画](express/export-animations.md)
-      + [安排社交帖子](express/schedule.md)
+      + [如何移除任何图像的背景](express/remove-background.md)
+      + [Adobe Express提供哪些新的Gen AI功能？](express/intro-gen-ai.md)
+      + [如何使用对象橡皮擦工具](express/object-eraser.md)
+      + [如何使用生成式填充](express/generative-fill.md)
+      + [使用Gen AI改进文本设计](express/gen-text.md)
+      + [如何使用文本到模板生成人工智能](express/text-to-template.md)
+      + [如何批量翻译您的内容](express/bulk-translate.md)
+      + [如何编辑PDF](express/edit-a-pdf.md)
+      + [如何使用调度程序进行过帐](express/schedule.md)
       + [创建模板](express/create-templates.md)
       + [编组对象](express/group-objects.md)
       + [创建多个页面](express/multiple-pages.md)
       + [使用CC库](express/cc-libraries.md)
       + [Google Drive集成](express/google-drive.md)
-      + [如何一键移除照片的背景](express/remove-background.md)
       + [优化抠图](express/refine-cutout.md)
       + [创建弯曲的文本](express/create-curved-text.md)
    + 用例教程 {#expressusecase}
