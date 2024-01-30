@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '716'
 ht-degree: 5%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 5%
       + [如何启动视频项目](express/start-video.md)
       + [如何添加视频剪辑](express/add-video-clips.md)
       + [什么是视频时间轴？](express/video-timeline.md)
+      + [使用多个剪辑](express/multiple-clips.md)
       + [如何添加音频](express/add-audio-video.md)
       + [如何导出视频](express/export-video.md)
    + 用例教程 {#expressusecase}
