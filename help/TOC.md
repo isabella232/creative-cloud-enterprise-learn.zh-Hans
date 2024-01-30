@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
@@ -81,6 +81,11 @@ ht-degree: 5%
       + [Google Drive集成](express/google-drive.md)
       + [优化抠图](express/refine-cutout.md)
       + [创建弯曲的文本](express/create-curved-text.md)
+      + [如何启动视频项目](express/start-video.md)
+      + [如何添加视频剪辑](express/add-video-clips.md)
+      + [什么是视频时间轴？](express/video-timeline.md)
+      + [如何添加音频](express/add-audio-video.md)
+      + [如何导出视频](express/export-video.md)
    + 用例教程 {#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
       + [创建引人入胜的促销内容](express/compelling-merchandise.md)
