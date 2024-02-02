@@ -1,19 +1,19 @@
 ---
 title: 不同类型的动画
-description: 通过使用各种类型的动画来增加项目参与度
+description: 使用各种类型的动画提高项目参与度
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # 不同类型的动画
 
-了解可将三种不同类型的动画添加到项目以使它们更具吸引力。
+了解可以添加到项目中的三种不同类型的动画（开场、循环和结尾动画），让它们更具吸引力。 每个动画都有不同的样式可供预览和选择。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)

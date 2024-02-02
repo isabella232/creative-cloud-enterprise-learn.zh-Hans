@@ -1,19 +1,19 @@
 ---
 title: 调整动画设置
-description: 通过微调设置提高动画的有效性
+description: 通过调整设置来提高动画效果
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14833
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 调整动画设置
 
-了解如何调整动画设置以提高效果。
+了解如何调整动画的设置以提高效果。 您可以编辑动画的持续时间、个性、速度和强度，以创建特定效果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
