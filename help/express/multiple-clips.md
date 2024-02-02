@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14873
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 了解如何向时间轴添加新视频剪辑、调整其长度、添加过渡和拆分剪辑以创建新场景。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+
+## 此系列中的其他视频
 
 <table style="table-layout:fixed">
 <tr>
