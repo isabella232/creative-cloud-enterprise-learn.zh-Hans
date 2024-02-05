@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
+source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 1%
@@ -359,7 +359,7 @@ ht-degree: 1%
             <img alt="如何以及为何锁定图层" src="assets/lock-layers.png" />
          </a>
    </td>
-  <td>
+   <td>
          <a href="create-templates.md">
             <img alt="创建模板" src="assets/create-template.png" />
          </a>
