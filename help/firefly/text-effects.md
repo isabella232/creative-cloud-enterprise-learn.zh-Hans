@@ -1,20 +1,21 @@
 ---
 title: 文本效果
-description: 了解如何使用由Adobe Firefly提供的文本效果
+description: 了解如何使用简单的文本提示为项目创建独特且鼓舞人心的文本
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # 文本效果
 
-了解如何使用Adobe Firefly支持的文本效果为新闻稿创建独特且鼓舞人心的标题图像。 加入Adobe Firefly(Beta) [此处](https://firefly.adobe.com/).
+了解如何使用简单的文本提示为项目创建独特且鼓舞人心的文本。 文本效果可让您增强创造力并为项目创建非凡的文本。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
 
 <br> 
 
