@@ -5,16 +5,17 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 3d633d50-d383-45ab-989e-9f9187012691
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 # Illustrator中的生成式重新着色
 
-了解如何在Adobe Illustrator中使用Adobe Firefly支持的生成式重新着色，快速帮助为自定义酒店茶盒重新着色矢量图像。 本教程使用AdobeIllustrator预发行版。
+了解如何在Adobe Illustrator中使用Adobe Firefly支持的生成式重新着色，快速帮助为自定义酒店茶盒重新着色矢量图像。
 
 <br> 
 
