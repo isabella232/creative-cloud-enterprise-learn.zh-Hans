@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
       </a>
    </td>
    <td>
+      <a href="custom-model-style.md">
+         <img alt="使用样式创建自定义模型" src="assets/custom-model-styles.png" />
+      </a>
+   </td>
+  <td>
       <a href="discover.md">
          <img alt="发现Adobe Firefly" src="assets/discover.png" />
       </a>
@@ -69,13 +74,13 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
          <img alt="登陆页面" src="assets/landing-page.png" />
       </a>
    </td>
+</tr>
+<tr>
    <td>
       <a href="text-to-image.md">
          <img alt="文字生成图片" src="assets/text-to-image.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="text-effects.md">
          <img alt="文本效果" src="assets/text-effects.png" />
@@ -91,14 +96,14 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
          <img alt="生成式重新着色" src="assets/generative-recolor.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="examples.md">
          <img alt="如何使用Firefly的示例" src="assets/examples.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="enable-creative-efficiency.md">
          <img alt="提高创意效率" src="assets/enable-creative-efficiency.png" />
       </a>
@@ -113,10 +118,26 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
          <img alt="Photoshop中的横幅广告变体" src="assets/banner-ad-variations.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="generative-recolor.md">
             <img alt="Illustrator中的生成式重新着色" src="assets/firefly-recolor.png" />
       </a>
    </td>
-</tr>
+   <td>
+      <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
 </table>
